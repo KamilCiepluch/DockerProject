@@ -1,0 +1,708 @@
+{
+  "name": "Dreams & Nightmares Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQwnfCcJmxDv9rhwIHZwqP3a-uGwz9Xv8F0j-qQrI3xiVLkrxVuZW-mJoWLMlhpWhFkc9M/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Shadow Daggers | Lore",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7ummJW4NFOhujT8om73wHj-UNuY26iItCdJlQ3NV-D8gO4kOft1pe9vc7OznQ26HQh4Hrdlwv330_0Fgh_LA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7ummJW4NFOhujT8om73wHj-UNuY26iItCdJlQ3NV-D8gO4kOft1pe9vc7OznQ26HQh4Hrdlwv330_0Fgh_LA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7um25V4dB8teXA54vwxlDj8kU6Nz36Io6RcQVrZ1rV_lO2lO7p08W_7prPzXAy7iJ3tCrVmUepwUYbnAJi1oo/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7um25V4dB8teXA54vwxlDj8kU6Nz36Io6RcQVrZ1rV_lO2lO7p08W_7prPzXAy7iJ3tCrVmUepwUYbnAJi1oo/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJB-eOmgZODqPv7Ib7unm5Q_txOhujT8om7jAS18kVsYT3xdoCWdw48M1nUqQfvyb2908fotcnBwHNn6XEntC7anAv3308V8J9Y4Q/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Autotronic",
+        "desc": "It has been anodized red and uses steel mesh to lighten the weight.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpwn_3O4Z76hl23lB81NDG3S9rEMFFrf1jSr1XrxO7vh8K87pjNnXpm6XMhsXrfmEPihhxJP-NugaCZS1ieAvBXXP7Vth9uuBo/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpwn_3O4Z76hl23lB81NDG3S9rEMFFrf1jSr1XrxO7vh8K87pjNnXpm6XMhsXrfmEPihhxJP-NugaCZS1ieAvBXXP7Vth9uuBo/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpwn_3O4Z76hl23lB45NzC2eenJI0RpNEbU81W2yLq8hcDu6MmbzHc17CQn7HnfyRGwiRtNaOJmgfeYHVWXAPFPAuDcUWK7Miuq/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpwn_3O4Z76hl23lB45NzC2eenJI0RpNEbU81W2yLq8hcDu6MmbzHc17CQn7HnfyRGwiRtNaOJmgfeYHVWXAPFPAuDcUWK7Miuq/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpwn_3O4Z76hl23lBs5Mi-6S9rEMFFrfwrTq1W_wu6-0ce77ZnAwCBn7HVw53rcmke0hR4Zb7Bt0PCYTVmWUadXXP7VeJHX2Rk/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bowie Knife | Gamma Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbukWpc5cROjubR5YDwmmukoxIvNmiceN_CKkJRPQmSrQSgx7i61JW_7pzLn3VmsiYr4SqPmkS_hklIPOY-g6PLTFSdD_dLSKLWV22Q7s4kVge_pA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbukWpc5cROjubR5YDwmmukoxIvNmiceN_CKkJRPQmSrQSgx7i61JW_7pzLn3VmsiYr4SqPmkS_hklIPOY-g6PLTFSdD_dLSKLWV22Q7s4kVge_pA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Freehand",
+        "desc": "It has been painted black and purple, then decorated with a metallic marker.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu5Mx2gv3--Y3nj1H6qBE6Mmj1cdKRJFBqYViE-1boyero15K6uprOnXc2vnNw4HeJyxDhgAYMMLJk2JUy5g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu5Mx2gv3--Y3nj1H6qBE6Mmj1cdKRJFBqYViE-1boyero15K6uprOnXc2vnNw4HeJyxDhgAYMMLJk2JUy5g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu5cB1g_zMyoD0mlOx5UA6YzqlcIXGcVRrZw6E_FO8xO3m0MW06szOwHBnvHYq7XuPm0a-hR9SLrs4LARw96A/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu5cB1g_zMyoD0mlOx5UA6YzqlcIXGcVRrZw6E_FO8xO3m0MW06szOwHBnvHYq7XuPm0a-hR9SLrs4LARw96A/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eO7lZKAkvPLJqvuzztu4MBwnPD--Y3nj1H68xJoNWvwdYXHcQdtY1HW8le9w-u6gZLo6c_MynowuXYi7H7cnhyz1wYMMLLuTxEMrw/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Gamma Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20kPb5PrrukmRB-Ml0mNbR_Y3mjQeLpxo7Oy2ceNfXJVMgYlmC81a2w-7n0Z6_vJ_JznM1vyIm4SmOzRS0gRwZP-FngqHIHFrLD7sJQvcWvKgTPw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20kPb5PrrukmRB-Ml0mNbR_Y3mjQWLpxo7Oy2ceNfXJVMgaF6ErAPoxu3ohpa5uZSdnCFr7nIr4n3ZlhS2hkxObbFu1KedSQ_IU7sJQvdki_kC3Q/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Autotronic",
+        "desc": "It has been anodized red and uses steel mesh to lighten the weight.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOhuDG_ZjKhFWmrBZyYj3xIo6Wc1JvNQ7Q_Fa_lebrhJ616JvPzydquXRx4iqJmRPmhB1NO_sv26Jl27uBwA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOhuDG_ZjKhFWmrBZyYj3xIo6Wc1JvNQ7Q_Fa_lebrhJ616JvPzydquXRx4iqJmRPmhB1NO_sv26Jl27uBwA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOh-zF_Jn4t1i1uRQ5fWDwLI7BJ1dvYV_T_ge7l-a-0ZK6vMuYynM1snJ2sXjbnhHjiE5PbOJxxavJd-vLfu0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOh-zF_Jn4t1i1uRQ5fWDwLI7BJ1dvYV_T_ge7l-a-0ZK6vMuYynM1snJ2sXjbnhHjiE5PbOJxxavJd-vLfu0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPbhJ7TFhGRf4cZOguzA45XKhFWmrBZyamvwJtWQd1M9Zg6F_wW5weu9jJG1u8vMmyQw63N05SrUyxW0gEkeavsv26JJs9Jorw/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Freehand",
+        "desc": "It has been painted black and purple, then decorated with a metallic marker.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPr1IbDUklRE-Poo2tbN_Iv9nGu4qgE7NneiI4eQIAQ7NVrSrFjtxu_p0MW_vMmawSNlvnFz43rfy0bh10keaOQ-m7XAHn59ovUx/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPr1IbDUklRE-Poo2tbN_Iv9nGu4qgE7NneiI4eQIAQ7NVrSrFjtxu_p0MW_vMmawSNlvnFz43rfy0bh10keaOQ-m7XAHn59ovUx/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPr1IbDUklRE-Poo2tbM8Ij8nVmLpxIuNDztLNWWJlM6Z1nXqwTrw73rgMS8vpnJnHdk6SFz5HnUlhbliB5Ia7No1OveFwvzueCjYQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPr1IbDUklRE-Poo2tbM8Ij8nVmLpxIuNDztLNWWJlM6Z1nXqwTrw73rgMS8vpnJnHdk6SFz5HnUlhbliB5Ia7No1OveFwvzueCjYQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPr1IbDUklRE-Poo2tbJ8I3jkWu4qgE7NnemdtWccFRrYVzWrwfskOzpgZe6vMmcwSc3s3Yg7S3UzkDm0xFEPbZtm7XAHlVZ_8r4/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bowie Knife | Freehand",
+        "desc": "It has been painted black and purple, then decorated with a metallic marker.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbum2pD48B1tfzRytWlt1i9rBsoDDWiZtHAbFRqYwrWqAO8lbrug5HttZicmnphvyAq5S3eyxOxgUxPbrc9hfKaTw6AR_se0ru7hVk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbum2pD48B1tfzRytWlt1i9rBsoDDWiZtHAbFRqYwrWqAO8lbrug5HttZicmnphvyAq5S3eyxOxgUxPbrc9hfKaTw6AR_se0ru7hVk/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbum2pD48B1tfzRytWlt1mxrxopPgavdcTCJxhrYVDT-Fm5k7ju0cW56MibnyRlviJws3vazBO3hxxFP-VmgPadSFXNGeUXSx6RSTRW/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbum2pD48B1tfzRytWlt1mxrxopPgavdcTCJxhrYVDT-Fm5k7ju0cW56MibnyRlviJws3vazBO3hxxFP-VmgPadSFXNGeUXSx6RSTRW/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbum2pD48B1tfzRytWlt1yxqgUlDDWiZtHAbAY4M1GD_lO6lezqg5foucjKnCMyunUq7XrdnhSyghlKbeRs1vScHQ2AR_seDrep2b4/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Bright Water",
+        "desc": "It has been painted using a blue camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eO5l4WKmcj_PbLXk1QIuPp9g-7J4bP5iUazrl1qNm6nddSdcgM3YgrU-1bql7_qgcXpvZWaySc3vCgitH6ImxDhgE5KcKUx0uKigR8f/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eO5l4WKmcj_PbLXk1QIuPp9g-7J4bP5iUazrl1qNm6nddSdcgM3YgrU-1bql7_qgcXpvZWaySc3vCgitH6ImxDhgE5KcKUx0uKigR8f/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eO5l4WKmcj_PbLXk1QIuPp8j-3I4IHKhFWmrBZyMT-lIYGRcQU6NF7QqFXtkurnjZ-5uc-cyyRk6CEg4HyJlxLhhxwYPPsv26K6uPky3A/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eO5l4WKmcj_PbLXk1QIuPp8j-3I4IHKhFWmrBZyMT-lIYGRcQU6NF7QqFXtkurnjZ-5uc-cyyRk6CEg4HyJlxLhhxwYPPsv26K6uPky3A/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eO5l4WKmcj_PbLXk1QIuPp5j-jX7LP5iUazrl06ZDimctfHcAdtaA7S-1Hrlebth8O8u5jLnXJguCErsyzVmxTi1U4fcKUx0k6Koi7Q/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Freehand",
+        "desc": "It has been painted black and purple, then decorated with a metallic marker.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmOL7VqX5B15whteXI8oTht1i1uRQ5fTqnLdCTeg9rN1uB-gW9yb27gJfo6JrIwCNg6SYisHzdmh20iRpKOOJxxavJLyjxsVI/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmOL7VqX5B15whteXI8oTht1i1uRQ5fTqnLdCTeg9rN1uB-gW9yb27gJfo6JrIwCNg6SYisHzdmh20iRpKOOJxxavJLyjxsVI/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmOL7VqX5B15whteTE8YXghWu4qgE7NnfwIo_AcABoZljXrlHvlOa-hJa875mdzXZnsiQj5yqPy0az1xtEbuBrm7XAHuDCGTlf/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmOL7VqX5B15whteTE8YXghWu4qgE7NnfwIo_AcABoZljXrlHvlOa-hJa875mdzXZnsiQj5yqPy0az1xtEbuBrm7XAHuDCGTlf/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20mvbmOL7VqX5B15whteHE9Jrst1i1uRQ5fW33LITEcFRqaAvVqwW_lbzq1JXu7pSdzycw73F24SuMnkCygk1KaeJxxavJZJtVajU/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Bright Water",
+        "desc": "It has been painted using a blue camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJnJm0mPTxMrXunWVY7sBO07n--YXygECLpxIuNDztdtfBd1U2MFjT-la2x-nv18ToupSamnJmviEg7C3UzkSygBFIPLNoguveFwsf5FIN5Q/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJnJm0mPTxMrXunWVY7sBO07n--YXygECLpxIuNDztdtfBd1U2MFjT-la2x-nv18ToupSamnJmviEg7C3UzkSygBFIPLNoguveFwsf5FIN5Q/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJnJm0mPTxMrXunWVY7sBO07n--InxgUG5lB89IT6mOtfEIwZraF7T8lK-l-bpgMK8uZqfzHc1uHJ3syzZmhbm1U5Ma-Vs0PeACQLJ-XT_NvA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJnJm0mPTxMrXunWVY7sBO07n--InxgUG5lB89IT6mOtfEIwZraF7T8lK-l-bpgMK8uZqfzHc1uHJ3syzZmhbm1U5Ma-Vs0PeACQLJ-XT_NvA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJnJm0mPTxMrXunWVY7sBO07n-_Yn0nk2LpxIuNDztJNWUeg85ZVCFqwftl-65g8Tvv8_OyCNkvyBx7X2LyhK0iB8ZbbFng-veFwuAazc1LA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Black Laminate",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPX4MrjaqWdQ5cx_i_3EyoD8j1yglB89IT6mOtTDegU6NVHT_gTvyL29h5Pqu5_PzXtmsiMi4irelhXjhB5LPORqjfSACQLJlkyaJ-g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPX4MrjaqWdQ5cx_i_3EyoD8j1yglB89IT6mOtTDegU6NVHT_gTvyL29h5Pqu5_PzXtmsiMi4irelhXjhB5LPORqjfSACQLJlkyaJ-g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPX4MrjaqWdQ5cx_i_3EyoHwjF2hpiwwMiukcZjBIwQ5M12FrgW-xenuhJS8tZ-fzCRqs3FxsC7UnxGygx4YaOZm0POcVxzAUJ2ayZUx/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPX4MrjaqWdQ5cx_i_3EyoHwjF2hpiwwMiukcZjBIwQ5M12FrgW-xenuhJS8tZ-fzCRqs3FxsC7UnxGygx4YaOZm0POcVxzAUJ2ayZUx/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJF_-OmgZODqPX4MrjaqWdQ5cx_i_3EyoTwiUKtlB89IT6mOoKUcQU3MFjW-1Tsle28jZ_v7s7Nyndm7yUrtCndzBbjiB9MOONugPOACQLJzb7dmQA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Bright Water",
+        "desc": "It has been painted using a blue camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqPj3NrrfqWBf4cN0tbCRyoD8j1yglB89IT6mOtDDdQ9oMgzW8li5wOq515bt7sjNn3Q26SQmsCmLzha_gR4ZZ-A70_SACQLJqRRpP7I/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqPj3NrrfqWBf4cN0tbCRyoD8j1yglB89IT6mOtDDdQ9oMgzW8li5wOq515bt7sjNn3Q26SQmsCmLzha_gR4ZZ-A70_SACQLJqRRpP7I/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqPj3NrrfqWBf4cN0tbCRyoHwjF2hpiwwMiukcZiXdldoYQ2C-AO6w-u8h8W_7cnBziFks3R043-OzkezgBpOa-Nu0_ebVxzAUFuQhai7/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqPj3NrrfqWBf4cN0tbCRyoHwjF2hpiwwMiukcZiXdldoYQ2C-AO6w-u8h8W_7cnBziFks3R043-OzkezgBpOa-Nu0_ebVxzAUFuQhai7/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqPj3NrrfqWBf4cN0tbCRyoTwiUKtlB89IT6mOobAcQJtY12G81W3w-zngMDo7pSazXJhuyIisHvUzhzk00lIP7M50PGACQLJ5jYf7H8/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Autotronic",
+        "desc": "It has been anodized red and uses steel mesh to lighten the weight.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6dBlhf3T-oL8i2u4ohQ0JwavdcTCJxg4MwzS-FnqwOrr1pS56JnKyyFqvnN24niMmkazgE0fPO0-hvTMQQrMGeUXSzV_lTu2/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6dBlhf3T-oL8i2u4ohQ0JwavdcTCJxg4MwzS-FnqwOrr1pS56JnKyyFqvnN24niMmkazgE0fPO0-hvTMQQrMGeUXSzV_lTu2/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6dBlhf3T-oL8i2u5rhc1JjSceNfXJVMgaAuFr1Lsl-bq1MLvupvJwHA2uCAgt3vYzkO3hB1MPeJshKCXGlrLBLsJQvfQmBN1vg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6dBlhf3T-oL8i2u5rhc1JjSceNfXJVMgaAuFr1Lsl-bq1MLvupvJwHA2uCAgt3vYzkO3hB1MPeJshKCXGlrLBLsJQvfQmBN1vg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6dBlhf3T-oL8i2u8rhIqKgavdcTCJxg4Y1nX-FC7xuvnhpe7v8zLnSdlsyFxtnvan0DigE1KbOM71vGaSlWZGeUXSx9czc9Q/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Gamma Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20kPb5PrrukmRB-Ml0mNbR_Y3mjQeLpxo7Oy2ceNfXJVMgYFGEr1i9kua7h8LttZyYz3cxsiMlsXzZmEG11xpEOrBrhfLIH1zLALsJQvd5v8C-AA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20kPb5PrrukmRB-Ml0mNbR_Y3mjQWLpxo7Oy2ceNfXJVMgZV_UqwC5wb25gpS_uJufnCdqs3JzsXnYmES11RpLO7drgvKYTlrLU7sJQvf99-lltQ/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bowie Knife | Lore",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMK7ulGRG4cBOhubT8LP5gVO8vywwMiukcZidcQY3YA6Er1C6krzq0cPttJjByXdkvSkm53_elxLl1UxNZrZphPeYVxzAUJ-okZE2/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMK7ulGRG4cBOhubT8LP5gVO8vywwMiukcZidcQY3YA6Er1C6krzq0cPttJjByXdkvSkm53_elxLl1UxNZrZphPeYVxzAUJ-okZE2/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMK7ulGRG4cBOhubT8LP4jVC9vh4DPzixc9OLegY7Zg6C_FC-kOrpgMC0vc6YwHM3sykm4C3UmRa2g0lNabNujPeaH0LeWfIkCq27XA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMK7ulGRG4cBOhubT8LP4jVC9vh4DPzixc9OLegY7Zg6C_FC-kOrpgMC0vc6YwHM3sykm4C3UmRa2g0lNabNujPeaH0LeWfIkCq27XA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMK7ulGRG4cBOhubT8LP9jVWisiwwMiukcZiVegM8ZlCEqVi7w-q618S978_MyXZm6CUj4y3ezkGxhh4YZuBphfeYVxzAUKwynt__/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Lore",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJl5W0n-L6J6jcl2Vu5Mpjj9bN_Iv9nGu4qgE7NnfzI4KSJAI_ZVnRrlO-yLi715-4upzBynNg7iZ35nrdyke0g0wYbbdnm7XAHouazzML/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJl5W0n-L6J6jcl2Vu5Mpjj9bN_Iv9nGu4qgE7NnfzI4KSJAI_ZVnRrlO-yLi715-4upzBynNg7iZ35nrdyke0g0wYbbdnm7XAHouazzML/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJl5W0n-L6J6jcl2Vu5Mpjj9bM8Ij8nVmLpxIuNDztINKWcAI9Zw7ZqFS7kry905bpv57MnHM3sicl7CmMykC-0x9Ka-M7heveFwuxkhZ_nw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJl5W0n-L6J6jcl2Vu5Mpjj9bM8Ij8nVmLpxIuNDztINKWcAI9Zw7ZqFS7kry905bpv57MnHM3sicl7CmMykC-0x9Ka-M7heveFwuxkhZ_nw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJl5W0n-L6J6jcl2Vu5Mpjj9bJ8I3jkWu4qgE7NnfyINfAcwBsYgzR-wO_k7rsh5W5vZvIzSFmvSFw4nrcmx3m1UxJb-dnm7XAHnRnDg0J/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bowie Knife | Autotronic",
+        "desc": "It has been anodized red and uses steel mesh to lighten the weight.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOi_zV-pjnh1q9qCwwOj6rYOnJI0RpNEaB_lftxu7ug8W6756fzHRj6yMlsX6PnRKy1R9JO7duhvGeQA6dVfFJAuDcUSllg7d3/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOi_zV-pjnh1q9qCwwOj6rYOnJI0RpNEaB_lftxu7ug8W6756fzHRj6yMlsX6PnRKy1R9JO7duhvGeQA6dVfFJAuDcUSllg7d3/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOi_zV-pjnh1q9qCwxNj2qYdv6Lld8Ng3OrwK7wr3qgZbt6cnLyCFh6Sh2437bnhS2hB1NarNmjabNS1uaBaEdSL7CWCT2zRFLuw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOi_zV-pjnh1q9qCwxNj2qYdv6Lld8Ng3OrwK7wr3qgZbt6cnLyCFh6Sh2437bnhS2hB1NarNmjabNS1uaBaEdSL7CWCT2zRFLuw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOi_zV-pjnh1q9qCw0Nji1benJI0RpNEbX-gfrxurphZC57pjPmHZrvCIr4S7anhW-gxgeZ7NshvfLHQ2fUaVNAuDcURapVd1u/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Black Laminate",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6slwieL--Y34gVq1vxYDPzCkfML6Lld8Ng3OrFG9yOrt18W-vcjNy3Qy7CQi5izfmxO3hh9NZ-Ztg_KbGlmWA_dNGL7CWCQDzRN-kA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6slwieL--Y34gVq1vxYDPzCkfML6Lld8Ng3OrFG9yOrt18W-vcjNy3Qy7CQi5izfmxO3hh9NZ-Ztg_KbGlmWA_dNGL7CWCQDzRN-kA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6slwieL--Y34gVq1vxYDPjynfcPIHVpvIw-F5Fi-xb250JC4uJqby3JrunN2537UyhDh0BpMbrQ9gPKaTlyfU_RNFKOcRi2Hk0hrgVw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6slwieL--Y34gVq1vxYDPjynfcPIHVpvIw-F5Fi-xb250JC4uJqby3JrunN2537UyhDh0BpMbrQ9gPKaTlyfU_RNFKOcRi2Hk0hrgVw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6slwieL--Y34gVq1vxYDOzyiYs_6Lld8Ng3O-wC-w-_sg5C_v5zJmyRjuXIr5HeJzBXhhRkfauBr1KOXG17MBa1OGr7CWCSSLOGsug/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Autotronic",
+        "desc": "It has been anodized red and uses steel mesh to lighten the weight.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6dBlhf3T-oL8i2u4ohQ0JwavdcTCJxhsaFnY_QS2we3shcfquJjNnHE26Sd27S6MnES0hBpOOONrhfebHA7MGeUXS_z2V8Lo/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6dBlhf3T-oL8i2u4ohQ0JwavdcTCJxhsaFnY_QS2we3shcfquJjNnHE26Sd27S6MnES0hBpOOONrhfebHA7MGeUXS_z2V8Lo/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6dBlhf3T-oL8i2u5rhc1JjSceNfXJVMgZVHSq1e9wb--gsfqtZvJnSMxvyFw5SrUzRPkhktEZ7Bo1KfLTFjLBrsJQvf8CLm_0w/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6dBlhf3T-oL8i2u5rhc1JjSceNfXJVMgZVHSq1e9wb--gsfqtZvJnSMxvyFw5SrUzRPkhktEZ7Bo1KfLTFjLBrsJQvf8CLm_0w/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6dBlhf3T-oL8i2u8rhIqKgavdcTCJxhsMAmC_AS3x7zn0ce16JvBnXpkv3Ejs3ePzEDm10tLbu0-0aGdHF3LGeUXS5UgPuZ0/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Lore",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJl5W0kfb4MLPYmWVu5Mpjj9bN_Iv9nGu4qgE7NneldteVdwQ3YFzWqVHrwObshJ-86pzMyXExviEktHeIlkPjgxBLa-Bmm7XAHtHWUPtu/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJl5W0kfb4MLPYmWVu5Mpjj9bN_Iv9nGu4qgE7NneldteVdwQ3YFzWqVHrwObshJ-86pzMyXExviEktHeIlkPjgxBLa-Bmm7XAHtHWUPtu/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJl5W0kfb4MLPYmWVu5Mpjj9bM8Ij8nVmLpxIuNDztdoPBIAM-NV_U_1m_wejm15S5uZXLz3Rq6yd25imMnBSyhxlNaLFpgOveFwtX5ykN6g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJl5W0kfb4MLPYmWVu5Mpjj9bM8Ij8nVmLpxIuNDztdoPBIAM-NV_U_1m_wejm15S5uZXLz3Rq6yd25imMnBSyhxlNaLFpgOveFwtX5ykN6g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJl5W0kfb4MLPYmWVu5Mpjj9bJ8I3jkWu4qgE7Nnf1LYGTcAA6MAuD-wO_xuvrgMS5v52ayXIxvyRw5naJnBy01Ekebrdnm7XAHi6E0WL6/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Black Laminate",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpzhujC_rP5iVm9pRIoNgavfdHNNmliMBqHr0-5wufmjZa_6JXPn3RhvCIm5Xnfn0fh1xwaOrBvjaGfHVyfUvMYTafQGDOO51zVYmLG/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpzhujC_rP5iVm9pRIoNgavfdHNNmliMBqHr0-5wufmjZa_6JXPn3RhvCIm5Xnfn0fh1xwaOrBvjaGfHVyfUvMYTafQGDOO51zVYmLG/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpzhujC_rP5iVm9pRIoNgaucdLMN1tRPQmSrQSgl-i61pK0v5zLm3Q3siAl5infmRK11ExMOLZp0PSeHFuXAqxLT6aDAW2Q7s7tKI3I1g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpzhujC_rP5iVm9pRIoNgaucdLMN1tRPQmSrQSgl-i61pK0v5zLm3Q3siAl5infmRK11ExMOLZp0PSeHFuXAqxLT6aDAW2Q7s7tKI3I1g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4eYqPXhJ6_UhG1d8fpzhujC_rP5iVm9pRIoNgarcdfTO2liMBqHr0-7levthJG8upydm3YwsyBztinUzBzjhR0Zauc8h6HIQArMVq0aGKHUGDOO59Va0qNt/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Gamma Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPD1PrbQqW9e-NV9j_v-5YT0m1HnlB81NDG3S9rEMFFrfw6ErgfoyOjogJ-1vcvJz3Vqvycmtn7dyx3m0BBLP-xrjPOZTw6fUvBXXP7VXQBmopk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPD1PrbQqW9e-NV9j_v-5YT0m1HnlB81NDG3S9rEMFFrfw6ErgfoyOjogJ-1vcvJz3Vqvycmtn7dyx3m0BBLP-xrjPOZTw6fUvBXXP7VXQBmopk/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Freehand",
+        "desc": "It has been painted black and purple, then decorated with a metallic marker.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20mvbmOL7VqX5B15whteXI8oTht1i1uRQ5fTz1IdDGIwJqNVrX-FDsye-9gpW_6cmfnCRjv3Qm4X_VmxS_00lNaOZxxavJKNRToCw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20mvbmOL7VqX5B15whteXI8oTht1i1uRQ5fTz1IdDGIwJqNVrX-FDsye-9gpW_6cmfnCRjv3Qm4X_VmxS_00lNaOZxxavJKNRToCw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20mvbmOL7VqX5B15whteTE8YXghWu4qgE7NnenJtCVcQY7MlrYrlG6yea9hsC96MvAmiAwunZ3tinal0C3gRhKPO1mm7XAHiTndDh_/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20mvbmOL7VqX5B15whteTE8YXghWu4qgE7NnenJtCVcQY7MlrYrlG6yea9hsC96MvAmiAwunZ3tinal0C3gRhKPO1mm7XAHiTndDh_/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20mvbmOL7VqX5B15whteHE9Jrst1i1uRQ5fWr2LIKUIwU5YV6F_1ntwefnjcS9vs-cnSNr7HYm5iuMy0Di1R8fOONxxavJHDQbBUM/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Gamma Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOxlY2GlsjwPKvBmm5D19V5i_rEpLP5gVO8vywwMiukcZiSIVI7N1DY_lfox73r1MO4vMudmCdluXUkt37dmRWwhxwea-RugfWfVxzAUIPBEjtM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOxlY2GlsjwPKvBmm5D19V5i_rEprP5gVO8vywwMiukcZiWcw43MlrZ-lS_lb290MPtvpjLyXpr7nN0syvbmhK1gB4dbbQ6gvLKVxzAUDxBqCy8/512fx384f"
+        }
+      },
+      {
+        "name": "★ Falchion Knife | Bright Water",
+        "desc": "It has been painted using a blue camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0mPTxMrXunWVY7sBO07n--YXygECLpxIuNDztI4OUIVI6ZlmG_wPvwOm9hJ-1vZ3BnXZn73QrtHrdmxHkhkodPOJsh-veFwuzLOxxjg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0mPTxMrXunWVY7sBO07n--YXygECLpxIuNDztI4OUIVI6ZlmG_wPvwOm9hJ-1vZ3BnXZn73QrtHrdmxHkhkodPOJsh-veFwuzLOxxjg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0mPTxMrXunWVY7sBO07n--InxgUG5lB89IT6mOtPBegA5YQzX_lTskLq61pLu75mby3EyuyhztHfdnUbigUwYabNugaCACQLJmAx6S_0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0mPTxMrXunWVY7sBO07n--InxgUG5lB89IT6mOtPBegA5YQzX_lTskLq61pLu75mby3EyuyhztHfdnUbigUwYabNugaCACQLJmAx6S_0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0mPTxMrXunWVY7sBO07n-_Yn0nk2LpxIuNDztddDHJlU4Z12F-le5ley915Luvp7PyXZrvHV2t3uMzRCyhkpEPOQ50OveFwszVOTT-g/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Lore",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4OeqPXhJ6_UhG1d8fp9hfvEyoD8j1yglB89IT6mOoHBJwY4N1CFrFPrxeq71pXtvMzPm3VmsyEm5S7emkTi101JZ-VrgKCACQLJNyvXBP8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4OeqPXhJ6_UhG1d8fp9hfvEyoD8j1yglB89IT6mOoHBJwY4N1CFrFPrxeq71pXtvMzPm3VmsyEm5S7emkTi101JZ-VrgKCACQLJNyvXBP8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4OeqPXhJ6_UhG1d8fp9hfvEyoHwjF2hpiwwMiukcZjBdVNsZgnYr1i-kOm5gZC5tZqYwHdrs3R05XfYlkGz1R8ZP7Rv0_yeVxzAUFm-H04o/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4OeqPXhJ6_UhG1d8fp9hfvEyoHwjF2hpiwwMiukcZjBdVNsZgnYr1i-kOm5gZC5tZqYwHdrs3R05XfYlkGz1R8ZP7Rv0_yeVxzAUFm-H04o/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4OeqPXhJ6_UhG1d8fp9hfvEyoTwiUKtlB89IT6mOo6RdgdoMF_YrljrkrjnjMK07cnJzyNhuCkk5H3bl0az005MabRph_SACQLJbW3J4eY/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Black Laminate",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6slwieL--Y34gVq1vxYDPzCkfML6Lld8Ng3O_1G4w7rvgZK-78-awHRhvXEn7HnVzhTliR5Pb-1n0_CeQVidAfdMHb7CWCRqZzjuEw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6slwieL--Y34gVq1vxYDPzCkfML6Lld8Ng3O_1G4w7rvgZK-78-awHRhvXEn7HnVzhTliR5Pb-1n0_CeQVidAfdMHb7CWCRqZzjuEw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6slwieL--Y34gVq1vxYDPjynfcPIHVpvIw-F5Afrx-_phZK6uJvKmHFlsnZ35XeJyhawiUlNbuRtjKeeT1yeU6FKTqicRi2HzNOMlAM/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6slwieL--Y34gVq1vxYDPjynfcPIHVpvIw-F5Afrx-_phZK6uJvKmHFlsnZ35XeJyhawiUlNbuRtjKeeT1yeU6FKTqicRi2HzNOMlAM/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6slwieL--Y34gVq1vxYDOzyiYs_6Lld8Ng3OqwTox7rq0ZLqu5SYwXtq6HMq5X3enRWxgxxFbOQ7hKCXSgrPA6ZNHb7CWCSVfWTeyQ/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bowie Knife | Black Laminate",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOiOXA9ofKhFW5oh09JzyceN_CKkJRPQmSrQSgyb_qg5a9tJqcmCBrvycg53jazUThhx4YOOJojaDNTg-ZUaFNSfWGVW2Q7s6KqSdMfQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOiOXA9ofKhFW5oh09JzyceN_CKkJRPQmSrQSgyb_qg5a9tJqcmCBrvycg53jazUThhx4YOOJojaDNTg-ZUaFNSfWGVW2Q7s6KqSdMfQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOiOXA9ofKhFW5oh09JzycedPBK0NjDgSBuAbr37rtgcPv6s6czHM2uyZz4XjazkCzhhtOa-Bm06HMGF_KBKcaH_WDUHTO8Mckp366-4E/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOiOXA9ofKhFW5oh09JzycedPBK0NjDgSBuAbr37rtgcPv6s6czHM2uyZz4XjazkCzhhtOa-Bm06HMGF_KBKcaH_WDUHTO8Mckp366-4E/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLNKjulGRG4cBOiOXA9ofKhFW5oh09JzycfNPENE9RPQmSrQSgl7vojZO_u57JyXZl63Ih5yuLmRSyh0lEaew5jf2bQV3MVvRAFaHUAW2Q7s7A0Jx84A/512fx384f"
+        }
+      },
+      {
+        "name": "★ Bowie Knife | Bright Water",
+        "desc": "It has been painted using a blue camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LumWhU6ctOgefI84nK0QSLpxo7Oy2ceNfXJVMgNV7W8li2xenpgMftupWbmnEy73V243iPlxeygRgfauQ-jaCcH12ZBbsJQvfSZlEljw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LumWhU6ctOgefI84nK0QSLpxo7Oy2ceNfXJVMgNV7W8li2xenpgMftupWbmnEy73V243iPlxeygRgfauQ-jaCcH12ZBbsJQvfSZlEljw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LumWhU6ctOgefI84nK0QSLphY4OiyuS9rEMFFrf1_Z-1Pqyezmh57puZ-ay3BguHUn5yzczRDhghtMPONvjfTMSFycBPRXXP7Vt6NXmGM/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LumWhU6ctOgefI84nK0QSLphY4OiyuS9rEMFFrf1_Z-1Pqyezmh57puZ-ay3BguHUn5yzczRDhghtMPONvjfTMSFycBPRXXP7Vt6NXmGM/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLO6LumWhU6ctOgefI84nK0QSLoxY9JSCceNfXJVMgZl3U_QC-xem91pC975ydy3Y2uil35SuOyUTjiRxMZrM7gfTKHFyXBbsJQve7JRZfow/512fx384f"
+        }
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "MP9 | Starlight Protector",
+        "desc": "This custom paint job features a unicorn with a rainbow mane atop a white base. It has been finished with gold accents.",
+        "lore": "May the deity protect you, should the deity select you",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FABz7P7YKAJR-N2kmImMn-PLP7LWnn9u5MRjjeyPotXx2g3h_UM_ZGigINTEdw88aVrUqVDvwLvs1J69u5-amnVhvClwsGGdwUKxD8sm0Q/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FABz7P7YKAJR-N2kmImMn-PLP7LWnn9u5MRjjeyPotXx2g3h_UM_ZGigINTEdw88aVrUqVDvwLvs1J69u5-amnVhvClwsGGdwUKxD8sm0Q/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FABz7P7YKAJR-N2kmImMn-PLPr7Vn35c18lwmO7Eu4-m3lLl_hA9Nm_6J4SVcFBvZVuDqFG6kLzs1sS-uZ7Kz3FjuSIgt3_D30vgbTLlWps/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FABz7P7YKAJR-N2kmImMn-PLPr7Vn35c18lwmO7Eu4-m3lLl_hA9Nm_6J4SVcFBvZVuDqFG6kLzs1sS-uZ7Kz3FjuSIgt3_D30vgbTLlWps/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FABz7P7YKAJR-N2kmImMn-PLO77QgHJu5MRjjeyPoN720VW2r0JvZjr1ctSRJ1M2Nw7QqFm-l7_vgZXp7ZWcmHJk6XUqsGGdwULLFOdRhQ/512fx384f"
+        }
+      },
+      {
+        "name": "AK-47 | Nightwish",
+        "desc": "It has been custom painted with a deer and dreamcatchers in neon colors and finished with a pearlescent effect.",
+        "lore": "I've been saving this for a special occasion... – Booth, Arms Dealer",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tdn2xZ_Pp9i_vG8MKliwDh80I-Nmn6INOXIFI5YlqCrwK_ybu90cfovsvOyCBiuiEqtCnfgVXp1iNhGu0F/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tdn2xZ_Pp9i_vG8MKliwDh80I-Nmn6INOXIFI5YlqCrwK_ybu90cfovsvOyCBiuiEqtCnfgVXp1iNhGu0F/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tck29Y_chOhujT8om72wW2rhdsZj-nIYLAIQA_NQyBrlm4lOu9hMW_tMuazSRl7yAhsCuMzQv33087kXHqKQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4Tck29Y_chOhujT8om72wW2rhdsZj-nIYLAIQA_NQyBrlm4lOu9hMW_tMuazSRl7yAhsCuMzQv33087kXHqKQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09K_k4ifgP7nO4TZk2pH8fp9i_vG8ML0jAfhrkRlN27xddKWJgNtMFrW_Fm7yee5gpG1vcydwHFlv3Yr53aIgVXp1q6xl_vN/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Dual Berettas | Melondrama",
+        "desc": "These berettas have been custom painted with a twisted, frightening depiction of a watermelon over a navy blue background.",
+        "lore": "Sweet dreams...",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq4KOgPbmNoTdn2xZ_Pp9i_vG8MKmiQDh-kRsYmmmJoWScwU4N1GDqQC7kuvmhsTp6cmdwHYyuHEitH7YgVXp1r6aPbAJ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq4KOgPbmNoTdn2xZ_Pp9i_vG8MKmiQDh-kRsYmmmJoWScwU4N1GDqQC7kuvmhsTp6cmdwHYyuHEitH7YgVXp1r6aPbAJ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq4KOgPbmNoTck29Y_chOhujT8om73lLk-BE6amvwIo6ccFI7ZVnVqFG4wuu9jZXo6cvOmnAxuHF05y7Vzgv3308iWLK6fw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq4KOgPbmNoTck29Y_chOhujT8om73lLk-BE6amvwIo6ccFI7ZVnVqFG4wuu9jZXo6cvOmnAxuHF05y7Vzgv3308iWLK6fw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dDFL-Nmlq4KOgPbmNoTZk2pH8fp9i_vG8ML2iQznrkduNmuncNWTJg84aFqD_QS7kO67hsK9vJ7BySBruXR05yragVXp1sL58oe6/512fx384f"
+        }
+      },
+      {
+        "name": "FAMAS | Rapid Eye Movement",
+        "desc": "It has been custom painted with pink interlocking squares. The squares are painted with lifelike eyes.",
+        "lore": "Frantic are the eyes of the dreamer",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JhoGbnvPLNqLUhVRd4cJ5ntbN9J7yjRrsqkJqZTz1cIWTcwQ_M1nWrgXqku_u15_t78zAzSZm6SUm5C3dzRCxn1gSObQrE_CU/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JhoGbnvPLNqLUhVRd4cJ5ntbN9J7yjRrsqkJqZTz1cIWTcwQ_M1nWrgXqku_u15_t78zAzSZm6SUm5C3dzRCxn1gSObQrE_CU/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JhoGbnvPLNqLUhVRc7cF4n-T--Y3nj1H6rxdtZmClcILAJAA6Y1jS8wS_lb_ph8S56J7Nmns17HJ05nvYlhK-hQYMMLKsce-dyA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JhoGbnvPLNqLUhVRc7cF4n-T--Y3nj1H6rxdtZmClcILAJAA6Y1jS8wS_lb_ph8S56J7Nmns17HJ05nvYlhK-hQYMMLKsce-dyA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JhoGbnvPLNqLUhVRZ7cRnk9bN9J7yjRrk-Uo6NjzyLYKddg48aVHU-AK8wuzrg5K-tJrJnCdg6yAk4yvVy0a2n1gSObINgg0j/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Abyssal Apparition",
+        "desc": "This custom paint job depicts abandoned souls falling into a pit of nightmares.",
+        "lore": "You cannot escape your destiny",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJE6d2kq4yCkP_gDLfQhGxUppQmjL-RrY_w3wSy_0c9NWn6d4fEewRtZFzR_lK-ye7rgZS17cjLnXR9-n51k7vdI74/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJE6d2kq4yCkP_gDLfQhGxUppQmjL-RrY_w3wSy_0c9NWn6d4fEewRtZFzR_lK-ye7rgZS17cjLnXR9-n51k7vdI74/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJE6d2kq42Ok_7hPoTdl3lW7Ysl3bHF89ut2laxqBZqZWr6IdCVcgU-aVzV-VS8xLy5gZO1uc-YwCAwpGB8sjDPQZ4i/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJE6d2kq42Ok_7hPoTdl3lW7Ysl3bHF89ut2laxqBZqZWr6IdCVcgU-aVzV-VS8xLy5gZO1uc-YwCAwpGB8sjDPQZ4i/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJE6d2kq4iOluHtDLfQhGxUppR3iLvHpNygigfiqkVpYWunJYSSJAc7YFHZ_QS4k-ft1pPvvZzOzSd9-n51g3wi1hY/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M4A1-S | Night Terror",
+        "desc": "Scattered thoughts from the mind of an insomniac have been scrawled across this custom-painted A1-S.",
+        "lore": "In the bosom of the gentle night, is when I search for the light",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITYmHhe5ct4i9bN_Iv9nGu4qgE7NnfxIoPAdFNsaV7Wrla7wL2-05Lu7sjOn3owsnIk5yrZnxXkhE5Mb-Jqm7XAHrs5PyMk/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITYmHhe5ct4i9bN_Iv9nGu4qgE7NnfxIoPAdFNsaV7Wrla7wL2-05Lu7sjOn3owsnIk5yrZnxXkhE5Mb-Jqm7XAHrs5PyMk/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITYmHhe5ct4i9bM8Ij8nVmLpxIuNDztItTGdABoYwnTqVS4yL_s0MS6uJyYy3pmsyMj4i7bnxS2hRwfPLFngOveFws_mP4iMA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITYmHhe5ct4i9bM8Ij8nVmLpxIuNDztItTGdABoYwnTqVS4yL_s0MS6uJyYy3pmsyMj4i7bnxS2hRwfPLFngOveFws_mP4iMA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITYmHhe5ct4i9bJ8I3jkWu4qgE7Nnf2cYGddwU_aQ7UqFnok7q8hJ-8u5ifn3ZqvilztnrYzRflgx5Ja7M8m7XAHkoiDdX7/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Zombie Offensive",
+        "desc": "A custom pattern of zombified Counter-Strike agents has been applied.",
+        "lore": "\"Undead game\"",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTiVP08a5mYKCksj7Nb3UmHhY_sBOhuDG_ZjKhFWmrBZyYzzyIdKTe1BsN1GC-QW3wrzugcC5uMvBzCQysiRwti3Zmka_1xxFO_sv26IMuXvssQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTiVP08a5mYKCksj7Nb3UmHhY_sBOhuDG_ZjKhFWmrBZyYzzyIdKTe1BsN1GC-QW3wrzugcC5uMvBzCQysiRwti3Zmka_1xxFO_sv26IMuXvssQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTiVP08a5mYKCksj7Nb3UmHhY_sBOh-zF_Jn4t1i1uRQ5fWugIdDDew4_NV2F_VLrwObmg8PuvM7ByXQ3vSIisyvdnxG30xpFb-BxxavJnIlWKNg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTiVP08a5mYKCksj7Nb3UmHhY_sBOh-zF_Jn4t1i1uRQ5fWugIdDDew4_NV2F_VLrwObmg8PuvM7ByXQ3vSIisyvdnxG30xpFb-BxxavJnIlWKNg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTiVP08a5mYKCksj7Nb3UmHhY_sBOguzA45XKhFWmrBZyYG2mcdKdcwNrYQzU8wK-wb_m0MDvu86dy3Ax6CAn5ymIyxDj0xkYbPsv26IW817ryQ/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Space Cat",
+        "desc": "A space art depiction of a cat has been custom painted over a black and purple base.",
+        "lore": "The paws of creation",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJh5CKlPL3Mq_ummJW4NFOhujT8om7iwa38hE-NWD3LdWRIFJoYwuF-VC5wr27h5K4u5jMwHNkvScj4yuJnAv330-6Hkec3g/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJh5CKlPL3Mq_ummJW4NFOhujT8om7iwa38hE-NWD3LdWRIFJoYwuF-VC5wr27h5K4u5jMwHNkvScj4yuJnAv330-6Hkec3g/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJh5CKlPL3Mq_um25V4dB8teXA54vwxgGyqkVpZW_1IY-Qeg5tM1mGqQTvk7rqh5_uuZuaynQyuCkm4C6LmRGpwUYblCWkR4Y/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJh5CKlPL3Mq_um25V4dB8teXA54vwxgGyqkVpZW_1IY-Qeg5tM1mGqQTvk7rqh5_uuZuaynQyuCkm4C6LmRGpwUYblCWkR4Y/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJh5CKlPL3Mq_unm5Q_txOhujT8om72lC1-RdrZTigJtTAJlM-YF2GrlPtl-vv1JLpv5XLnHFj7iF3tH3Ylgv3308ADBDZlg/512fx384f"
+        }
+      },
+      {
+        "name": "G3SG1 | Dream Glade",
+        "desc": "A green forest gives way to a blue sky at the center of this custom paint job.",
+        "lore": "\"There, a clearing in the forest!\"",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0Ob3dm5R642Jk4yKk_LLP7LWnn9u5MRjjeyPrN_w2QPi80ZrYmHwJYWTJAI5YwvY-wO5xO3shJ--tcnOm3di7iNzsWGdwUKZjxvmOg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0Ob3dm5R642Jk4yKk_LLP7LWnn9u5MRjjeyPrN_w2QPi80ZrYmHwJYWTJAI5YwvY-wO5xO3shJ--tcnOm3di7iNzsWGdwUKZjxvmOg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0Ob3dm5R642Jk4yKk_LLPr7Vn35c18lwmO7Eu4jzjg3kqkduam7wJdCTdgJoYlDYqFXvk-3sgJfqtczAzHQwvSIn7C7D30vgTTvnKfA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0Ob3dm5R642Jk4yKk_LLPr7Vn35c18lwmO7Eu4jzjg3kqkduam7wJdCTdgJoYlDYqFXvk-3sgJfqtczAzHQwvSIn7C7D30vgTTvnKfA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf0Ob3dm5R642Jk4yKk_LLO77QgHJu5MRjjeyP8dui2Qa1_UJsazz6J9eRdgRoZgnUqQK2wuq-gZXovJudznRn6Ckn5mGdwUKIppnGdQ/512fx384f"
+        }
+      },
+      {
+        "name": "USP-S | Ticket to Hell",
+        "desc": "White technical designs have been custom painted over a black base.",
+        "lore": "Designer death",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jgPITZk2dd18l4jeHVyoD0mlOx5UJvamjxcteUcQ9oY1jV_we5lO3vgZLtvp7NmCZiuyFwty2OyhCziU5SLrs4xNicnZY/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jgPITZk2dd18l4jeHVyoD0mlOx5UJvamjxcteUcQ9oY1jV_we5lO3vgZLtvp7NmCZiuyFwty2OyhCziU5SLrs4xNicnZY/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jgPITZk2dd18h0juDU-LP5iUazrl0_Nj_6d9eRcVVrZ1iD_FDvwu3r0J7t6MmbmCRhunEm7XeOyhS-hhtJcKUx0kcRs1rK/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jgPITZk2dd18h0juDU-LP5iUazrl0_Nj_6d9eRcVVrZ1iD_FDvwu3r0J7t6MmbmCRhunEm7XeOyhS-hhtJcKUx0kcRs1rK/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jgPITZk2dd1810i__YyoD0mlOx5RVoZGD2doeScgRqYArX-wS4w-zt1MO76ZrBnXFjuCUl7C3dmxKxhElSLrs4uOkrizU/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MAC-10 | Ensnared",
+        "desc": "A custom paint job of pixies, trapped inside the weapon and eager to escape, has been applied.",
+        "lore": "They have yet to find someone they cannot fool",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhImTnvLLP7LWnn9u5MRjjeyPp9qs3QSx-EM5NW6mI4LAdA83Y1iE_Fa3x-u8gZa17pWbwXpquiJx7WGdwULwMeB_qg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhImTnvLLP7LWnn9u5MRjjeyPp9qs3QSx-EM5NW6mI4LAdA83Y1iE_Fa3x-u8gZa17pWbwXpquiJx7WGdwULwMeB_qg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhImTnvLLPr7Vn35c18lwmO7Eu9rxiVXjrhJtZW2gJdKQc1Q5YF3YrFG5k7i6hpO4vp_JmHJqs3UntHfD30vg5GSX_Ic/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhImTnvLLPr7Vn35c18lwmO7Eu9rxiVXjrhJtZW2gJdKQc1Q5YF3YrFG5k7i6hpO4vp_JmHJqs3UntHfD30vg5GSX_Ic/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhImTnvLLO77QgHJu5MRjjeyP8N7x2w3lqkc9ZWmgcoeXc1c6MF2ErlDrl-q5gp--upXNznAyvyIit2GdwULtOIFJhw/512fx384f"
+        }
+      },
+      {
+        "name": "MP5-SD | Necro Jr.",
+        "desc": "It has been custom painted with fairytale inspired creatures and a chicken on the silencer.",
+        "lore": "Playtime is over!",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09e_kL-FkvTmPLXem2JS58tOhuDG_ZjKhFWmrBZya273IIWddQdrY1HZ_lntley80Me-uM7JyCA3uCQjt3zbnRbiiBkYOvsv26JVcvImbA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09e_kL-FkvTmPLXem2JS58tOhuDG_ZjKhFWmrBZya273IIWddQdrY1HZ_lntley80Me-uM7JyCA3uCQjt3zbnRbiiBkYOvsv26JVcvImbA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09e_kL-FkvTmPLXem2JS58tOh-zF_Jn4t1i1uRQ5fW_wJ4-UegdsZA2D81TvxOvmhsW0vJrBnyRi7iJx5y7Unhflgh5JO7RxxavJt23X-SA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09e_kL-FkvTmPLXem2JS58tOh-zF_Jn4t1i1uRQ5fW_wJ4-UegdsZA2D81TvxOvmhsW0vJrBnyRi7iJx5y7Unhflgh5JO7RxxavJt23X-SA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09e_kL-FkvTmPLXem2JS58tOguzA45XKhFWmrBZyY2D2JY-VJ1A4MFnT-VS8ybjphMS6vpXKnHQ3vycj4CrdlxS_iEkdb_sv26KXt8nMLA/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Foresight",
+        "desc": "This custom paint job features an octopus, asked to predict the outcome of a match, reaching for the \"win\" tablet.",
+        "lore": "I've got a good feeling about this...",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV08ykkYSClOP7IYTdn2xZ_Pp9i_vG8MKh2wXj-Ec_MjzyIIfBcgBvY1iGq1K4wOu7hp7pv8_IzCFkuigk5X2MgVXp1pgXBZ4a/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV08ykkYSClOP7IYTdn2xZ_Pp9i_vG8MKh2wXj-Ec_MjzyIIfBcgBvY1iGq1K4wOu7hp7pv8_IzCFkuigk5X2MgVXp1pgXBZ4a/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV08ykkYSClOP7IYTck29Y_chOhujT8om73wO3-BI-MTqicYLBdVdvMFqC8we-xuq8hZK8u5XLn3I1uiN07HyIyQv33087B9vVEg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV08ykkYSClOP7IYTck29Y_chOhujT8om73wO3-BI-MTqicYLBdVdvMFqC8we-xuq8hZK8u5XLn3I1uiN07HyIyQv33087B9vVEg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV08ykkYSClOP7IYTZk2pH8fp9i_vG8MKl2A2y-ktqYG2gd4OUJgc4MFHT8gPrxL_njJW8tJqaynVi6XQrsXjVgVXp1sM9yZnP/512fx384f"
+        }
+      },
+      {
+        "name": "P2000 | Lifted Spirits",
+        "desc": "It has been custom painted with a forest beneath ascending bodies.",
+        "lore": "Many lost souls do not wish to be found",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvteJkoySnvnzDL_Dk2pc18l4jeHVyoD0mlOx5Rc-YmqnIdKTcQNrZlqB_wK4leu-15G4vszPnyNg6yF3tnvcnRyzgR1SLrs4oNFBqs8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvteJkoySnvnzDL_Dk2pc18l4jeHVyoD0mlOx5Rc-YmqnIdKTcQNrZlqB_wK4leu-15G4vszPnyNg6yF3tnvcnRyzgR1SLrs4oNFBqs8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvteJkoySnvnzDL_Dk2pc18h0juDU-LP5iUazrl1oYDz7I9OScgQ_ZFzV_1Xvl7rvhpO76JzBnyBh6HQm5X_dnha-h0tMcKUx0iaR7m8f/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvteJkoySnvnzDL_Dk2pc18h0juDU-LP5iUazrl1oYDz7I9OScgQ_ZFzV_1Xvl7rvhpO76JzBnyBh6HQm5X_dnha-h0tMcKUx0iaR7m8f/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvteJkoySnvnzDL_Dk2pc1810i__YyoD0mlOx5UNoY2-gIYKdIQA2aAvZ_QC6yL2815fqucudziFnuHEr5H_Zyxew0h5SLrs4pOJRsuc/512fx384f"
+        }
+      },
+      {
+        "name": "Sawed-Off | Spirit Board",
+        "desc": "It has been custom painted to resemble a heavily played spirit board.",
+        "lore": "\"Come on, I know you're moving it...\"",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLPK7YnGpu5Mx2gv3--Y3nj1H6_Eo5NmjwLIGTcQE6NwnRrAW8l-7r18PttJnIy3YwuCYnsy3YmhG3hgYMMLKc7wSu3A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLPK7YnGpu5Mx2gv3--Y3nj1H6_Eo5NmjwLIGTcQE6NwnRrAW8l-7r18PttJnIy3YwuCYnsy3YmhG3hgYMMLKc7wSu3A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLPK7YnGpu5cB1g_zMyoD0mlOx5Rc-Ymn0LYXHcVRraQvV-lnrlOnn0JHq753KzycyvyUr5y7ezRDm0B1SLrs4xUTvar8/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLPK7YnGpu5cB1g_zMyoD0mlOx5Rc-Ymn0LYXHcVRraQvV-lnrlOnn0JHq753KzycyvyUr5y7ezRDm0B1SLrs4xUTvar8/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cih9_92hkYSEkfHLPK7YnGpu4MBwnPD--Y3nj1H68xU5Mj2iIYXDdFU3YA7Srge7xuvn15C7ucjJzHNr73J04yuJnx3j0wYMMLI7Eh9ONQ/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Scrawl",
+        "desc": "Custom designs have been hand-painted using bold strokes over a yellow and teal base.",
+        "lore": "The first and the last",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTQmntZ6fp-h-zG9LP5gVO8vywwMiukcZiTew5qYViE_1K4w--8hMS-v5jBz3dm63F0s3uLmBe-00tMO7FphvWeVxzAUFFwYKtp/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTQmntZ6fp-h-zG9LP5gVO8vywwMiukcZiTew5qYViE_1K4w--8hMS-v5jBz3dm63F0s3uLmBe-00tMO7FphvWeVxzAUFFwYKtp/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTQmntZ6fp-h-zG9LP4jVC9vh4DPzixc9OLegI_M1rW-QC4xefu1MO06J2cyXdlvCEj4HncnkOw1BEYPeNn1_GXTULeWfK4ljTIuw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTQmntZ6fp-h-zG9LP4jVC9vh4DPzixc9OLegI_M1rW-QC4xefu1MO06J2cyXdlvCEj4HncnkOw1BEYPeNn1_GXTULeWfK4ljTIuw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTQmntZ6fp-h-zG9LP9jVWisiwwMiukcZiScFQ-NQmC-1G3yOi61sC8v56anHcw73In7Hzflxbl1Bkfauc-1qPPVxzAUMnqP8nz/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Poultrygeist",
+        "desc": "It has been spray-painted with a pattern depicting chickens on a battlefield.",
+        "lore": "A chicken rides a shark into battle...",
+        "date_added": "21 January 2022",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF18l4jeHVyoD0mlOx5RFvYT-ncYSSJAZoZV3U_1fsxb3u0JPqvJnAmydl7CQmtyzVmRG-0x9SLrs4w6klS8s/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF18l4jeHVyoD0mlOx5RFvYT-ncYSSJAZoZV3U_1fsxb3u0JPqvJnAmydl7CQmtyzVmRG-0x9SLrs4w6klS8s/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF18h0juDU-LP5iUazrl0_ZWzwdoKcewE3NFzZrFDrwezn1pG5u5zBnHpnsnFwtizemRyz0xtFcKUx0qNC7M3M/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF18h0juDU-LP5iUazrl0_ZWzwdoKcewE3NFzZrFDrwezn1pG5u5zBnHpnsnFwtizemRyz0xtFcKUx0qNC7M3M/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi5B7c6Jl4iClPzxPb3YkWNF1810i__YyoD0mlOx5RVoMD_3J4LAdFNoN1CF-ATvl-251MXvusjJwXVk6yAr4XiJmRbihRBSLrs49s2hlC0/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

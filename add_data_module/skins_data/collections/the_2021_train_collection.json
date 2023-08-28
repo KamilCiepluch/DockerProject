@@ -1,0 +1,265 @@
+{
+  "name": "The 2021 Train Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2021_train_collection.png?id=064643cde27910fc7f654e71a5f46b81",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [
+      {
+        "name": "M4A4 | The Coalition",
+        "desc": "A custom gold and black paint job with interlocking triangles and blue highlights has been applied.",
+        "lore": "This alliance is temporary, but you're making me reconsider…",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09-5lYyCg_77PYTdn2xZ_Pp9i_vG8MKm2QewqkBtZWChcoWXIQI8ZlvS_wTskum5hcft6ZyYyXBkuHUh7HaMgVXp1o1UOJQ9/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09-5lYyCg_77PYTdn2xZ_Pp9i_vG8MKm2QewqkBtZWChcoWXIQI8ZlvS_wTskum5hcft6ZyYyXBkuHUh7HaMgVXp1o1UOJQ9/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09-5lYyCg_77PYTck29Y_chOhujT8om70Ffj-RVpYjjxd4CUJAc6Z1GE_VS2lLrujMe77pqYziRnvSErtHjemQv3308egpEAcQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09-5lYyCg_77PYTck29Y_chOhujT8om70Ffj-RVpYjjxd4CUJAc6Z1GE_VS2lLrujMe77pqYziRnvSErtHjemQv3308egpEAcQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09-5lYyCg_77PYTZk2pH8fp9i_vG8MLzjVfg_xFoYm2gJtWTegRrNFzX8gW9wei-0cPu75rNnCNjvCkj4C7dgVXp1rak6HI_/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Gamma Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73djxP4d2JkI-bh_vxIYTBnmpC7ZZOjeXO9ofKhF2zowcDPzixc9OLIQ5oaAnUq1e7w726gZHouMmcn3o2vSIrs3_fyxGw0B5Nb-Zs0fTLQELeWfLi-55O4Q/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73djxP4d2JkI-bh_vxIYTBnmpC7ZROjeXO9ofKhF2zowcDPzixc9OLIAU3ZFnVq1K8lO6518Lv786awSdqunYrsXnYnEGzghwYb-Jp0aOXHULeWfI9u5g-Fg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73djxP4d2JkI-bh_vxIYTBnmpC7ZROjeXO9ofKhVGwogYxDDWiZtHAbFI3Nw3Qrlm9lb_qhJG5vsiYyXM1uHMr4yyPmRK-00lJbuI5gfCeSlWAR_sekJbT-9g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73djxP4d2JkI-bh_vxIYTBnmpC7ZROjeXO9ofKhVGwogYxDDWiZtHAbFI3Nw3Qrlm9lb_qhJG5vsiYyXM1uHMr4yyPmRK-00lJbuI5gfCeSlWAR_sekJbT-9g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73djxP4d2JkI-bh_vxIYTBnmpC7ZZOjeXO9ofKgFG1vQoDPzixc9OLdAM8Z1nY8li6w727gpa0tMnPySRjuyAksSrdmBSxh0sfb-U5g_edTULeWfIj2edjCw/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "FAMAS | Meltdown",
+        "desc": "It has been painted with a pattern of nuclear hazard symbols using metallic paints.",
+        "lore": "Steer clear for a while...",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73fyhB4Nm3hr-bluPgNqnfwlRX6chwmdbN_Iv9nGu4qgE7Nnf0cYeRdVA_Yl3X-Fnqx7-90ZC-6pXOyHJrsnQk7CzczRfl1RtEbuJpm7XAHq6vqxRu/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73fyhB4Nm3hr-bluPgNqnfwlRX6chwmdbN_Iv9nGu4qgE7Nnf0cYeRdVA_Yl3X-Fnqx7-90ZC-6pXOyHJrsnQk7CzczRfl1RtEbuJpm7XAHq6vqxRu/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73fyhB4Nm3hr-bluPgNqnfwlRX6chwmdbM8Ij8nVmLpxIuNDztI9WXIFBsY1rQr1S7kL-7hcLquM_BnHo173Ik4iuLmRCziBAdPLE7h-veFwuQTYE7HA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73fyhB4Nm3hr-bluPgNqnfwlRX6chwmdbM8Ij8nVmLpxIuNDztI9WXIFBsY1rQr1S7kL-7hcLquM_BnHo173Ik4iuLmRCziBAdPLE7h-veFwuQTYE7HA/512fx384f"
+        }
+      },
+      {
+        "name": "MAC-10 | Propaganda",
+        "desc": "It has been custom painted with a pair of eyes and various words in Russian, including \"control\" and \"fear\".",
+        "lore": "You don't believe them, do you?",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhJKEh_bzMrXVl1Rd4cJ5ntbN9J7yjRqw8xJsZWyhJY-UJAVqN1DWq1brw7vtgMK4v5nAzntj73Qn4yrdmhy0n1gSOV-pza9R/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhJKEh_bzMrXVl1Rd4cJ5ntbN9J7yjRqw8xJsZWyhJY-UJAVqN1DWq1brw7vtgMK4v5nAzntj73Qn4yrdmhy0n1gSOV-pza9R/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhJKEh_bzMrXVl1Rc7cF4n-T--Y3nj1H6-0FtZjihJYLAJlc4M17Tr1brwOjshJXqvM7IzHBm6Sgls3rYzkfkgwYMMLIK0QvbnQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhJKEh_bzMrXVl1Rc7cF4n-T--Y3nj1H6-0FtZjihJYLAJlc4M17Tr1brwOjshJXqvM7IzHBm6Sgls3rYzkfkgwYMMLIK0QvbnQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhJKEh_bzMrXVl1RZ7cRnk9bN9J7yjRrmrxU-YGqhJIHGd1U-Yl2D-wftxOns1J_t75ufzXQy7yJ04iuLyxbin1gSOTn7I4GA/512fx384f"
+        }
+      },
+      {
+        "name": "USP-S | Whiteout",
+        "desc": "It is spray-painted all white.",
+        "lore": "It looks pure, but looks can be deceiving",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-5q5eDnuPxPK7FqXlY-NF4juz--YXygECLpxIuNDztLIHBcVQ2YwvY-QTow-a505a6tZjMwHNmsyAlsX_bnRawh0oZbeQ-1uveFwugDqSkSw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-5q5eDnuPxPK7FqXlY-NF4juz--YXygECLpxIuNDztLIHBcVQ2YwvY-QTow-a505a6tZjMwHNmsyAlsX_bnRawh0oZbeQ-1uveFwugDqSkSw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-5q5eDnuPxPK7FqXlY-NF4juz--InxgUG5lB89IT6mOoKSdA5tMlDWr1fqybvsgMC-uZ-fz3JkvnR05HvfzUHliU5NaOVmg_2ACQLJr6ROWZw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-5q5eDnuPxPK7FqXlY-NF4juz--InxgUG5lB89IT6mOoKSdA5tMlDWr1fqybvsgMC-uZ-fz3JkvnR05HvfzUHliU5NaOVmg_2ACQLJr6ROWZw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-5q5eDnuPxPK7FqXlY-NF4juz-_Yn0nk2LpxIuNDztIoedJ1JrYAzZ_QXqyO_rgJPtuZ-Yn3BrvXQrsyrYnRDmiRtFb7Bt1-veFwvl_0mJuw/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Nova | Red Quartz",
+        "desc": "It has been painted with metallic paint, using a crystallizing mask to create a pattern.",
+        "lore": "Everyone wants to make an impact",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szLYyRR-N26mImRkvPLP7LWnn9u5MRjjeyP9Nmm0QS3-hdtN22hJNeddQ9qZlvZ81C5k73s0Z_quZrPnycxuiF052GdwUIMUTZ0zw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szLYyRR-N26mImRkvPLP7LWnn9u5MRjjeyP9Nmm0QS3-hdtN22hJNeddQ9qZlvZ81C5k73s0Z_quZrPnycxuiF052GdwUIMUTZ0zw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szLYyRR-N26mImRkvPLPr7Vn35c18lwmO7Eu4mn2A3nqBY-ZGrwJdXDIQE8aAvS_lG3w7u50JS5tJ-bz3AxvHEg4H7D30vg113GtV4/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szLYyRR-N26mImRkvPLPr7Vn35c18lwmO7Eu4mn2A3nqBY-ZGrwJdXDIQE8aAvS_lG3w7u50JS5tJ-bz3AxvHEg4H7D30vg113GtV4/512fx384f"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Syndicate",
+        "desc": "A custom gold and black paint job with interlocking triangles and blue highlights has been applied.",
+        "lore": "We go together",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3ZS9D5dKJl5rcwsj4OrzZglRd6dd2j6fFpd2i0FbkrUE_Z2mgcIKRIwU2NV2D-lO_xL_ohJO-vpzNmiBi6XUq-z-DyH1IqVIT/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3ZS9D5dKJl5rcwsj4OrzZglRd6dd2j6fFpd2i0FbkrUE_Z2mgcIKRIwU2NV2D-lO_xL_ohJO-vpzNmiBi6XUq-z-DyH1IqVIT/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3ZS9D5dKJl5rcwsj5Nr_Yg2Zu5MRjjeyPrY2h3VC2_UtoYm7yJ4GQdQZrN1HX-1e6krq8jJXvvJXAnXE36Sci5mGdwUJfNCH2dw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3ZS9D5dKJl5rcwsj5Nr_Yg2Zu5MRjjeyPrY2h3VC2_UtoYm7yJ4GQdQZrN1HX-1e6krq8jJXvvJXAnXE36Sci5mGdwUJfNCH2dw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3ZS9D5dKJl5rcwsj8NrrHj1Rd6dd2j6eXpI7ziQXl-0JpYj3yJdCdewY2YlzY_QC9kO_q0cXu7svKwHpg7nJ2-z-DyDLjG00W/512fx384f"
+        }
+      },
+      {
+        "name": "AWP | POP AWP",
+        "desc": "A white, red, and blue retro techno-inspired pattern has been applied.",
+        "lore": "Wars are won with information",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLP7LWnn9u5MRjjeyPp96iigfh8hdoY2CnIYCRIFM5Z1_Vrlm9wuq81MK0tZvKzydg6HR2tGGdwULHAO9QIw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLP7LWnn9u5MRjjeyPp96iigfh8hdoY2CnIYCRIFM5Z1_Vrlm9wuq81MK0tZvKzydg6HR2tGGdwULHAO9QIw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLPr7Vn35c18lwmO7Eu47wiQLl_xY4amD1cIGTdFc2YFDT-lS_w-_vhce0tJrIznFk6yl2t3_D30vg0XBwXhg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLPr7Vn35c18lwmO7Eu47wiQLl_xY4amD1cIGTdFc2YFDT-lS_w-_vhce0tJrIznFk6yl2t3_D30vg0XBwXhg/512fx384f"
+        }
+      },
+      {
+        "name": "MP5-SD | Autumn Twilly",
+        "desc": "A red and tan hydrographic pattern of assorted designs has been applied.",
+        "lore": "Last chance; train's leaving the station",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3ZS9D5dK3hoODnuPxMK_ummJW4NFOhujT8om70Va18xA-amzzIdCVIAA5NF7Q8lG7wb26gMftv53OnHFh7nFwtyrcygv3308CfVhDYA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3ZS9D5dK3hoODnuPxMK_ummJW4NFOhujT8om70Va18xA-amzzIdCVIAA5NF7Q8lG7wb26gMftv53OnHFh7nFwtyrcygv3308CfVhDYA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3ZS9D5dK3hoODnuPxMK_um25V4dB8teXA54vwxlK2_xJrYm2idYTHdA88YgqG8li2xbzr0ZS_75rKn3AyvCN35HbYnhOpwUYbQyGyHZY/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3ZS9D5dK3hoODnuPxMK_um25V4dB8teXA54vwxlK2_xJrYm2idYTHdA88YgqG8li2xbzr0ZS_75rKn3AyvCN35HbYnhOpwUYbQyGyHZY/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3ZS9D5dK3hoODnuPxMK_unm5Q_txOhujT8om73AGxqUo_a2uhJYecI1c6Z12E_1HqkLrphJfu6ZTOmCYx7ih05ivVygv3308z8KmRuw/512fx384f"
+        }
+      },
+      {
+        "name": "P2000 | Space Race",
+        "desc": "A space themed pattern consisting of stars and satellites has been applied.",
+        "lore": "Send and receive",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJR_N21kZKKlPLLPKnQmGxU18l4jeHVyoD0mlOx5UVtYjyicYWUc1M9ZlGE-FXswu7ugZW0v87Py3Vj7iQn5X7fnxy-0BhSLrs4Sjf5900/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJR_N21kZKKlPLLPKnQmGxU18l4jeHVyoD0mlOx5UVtYjyicYWUc1M9ZlGE-FXswu7ugZW0v87Py3Vj7iQn5X7fnxy-0BhSLrs4Sjf5900/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJR_N21kZKKlPLLPKnQmGxU18h0juDU-LP5iUazrl05NTv6I4KRcAA6aFrQ-1m2yevr08LptJrKy3dgu3Qi5CrenkO-0xoZcKUx0kbXZKj9/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJR_N21kZKKlPLLPKnQmGxU18h0juDU-LP5iUazrl05NTv6I4KRcAA6aFrQ-1m2yevr08LptJrKy3dgu3Qi5CrenkO-0xoZcKUx0kbXZKj9/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJR_N21kZKKlPLLPKnQmGxU1810i__YyoD0mlOx5RBlYzryLIWdIVA_ZVCB81m_lOrr05e_6J-YzydgvHEn4HjblxXmhhBSLrs4LXXdxcU/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Tec-9 | Safety Net",
+        "desc": "An orange mesh pattern has been applied over a white base.",
+        "lore": "Your loadout; now with high visibility",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszFdC5K08-3koWfjvjmMrXWk1Rd4cJ5ntbN9J7yjRq1-UZqZ2n3IIWSc1U2ZgqC-1G2wOnqhsW7vcvPmiQxsyN05XzYlka2n1gSOQeuRM9Q/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszFdC5K08-3koWfjvjmMrXWk1Rd4cJ5ntbN9J7yjRq1-UZqZ2n3IIWSc1U2ZgqC-1G2wOnqhsW7vcvPmiQxsyN05XzYlka2n1gSOQeuRM9Q/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszFdC5K08-3koWfjvjmMrXWk1Rc7cF4n-T--Y3nj1H6_Utoa2mlIoSQewY2MFvR_1m2wbjtjZW56JvAzXpiu3NzsXaMnRfmiQYMMLKH-P1gBA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszFdC5K08-3koWfjvjmMrXWk1Rc7cF4n-T--Y3nj1H6_Utoa2mlIoSQewY2MFvR_1m2wbjtjZW56JvAzXpiu3NzsXaMnRfmiQYMMLKH-P1gBA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszFdC5K08-3koWfjvjmMrXWk1RZ7cRnk9bN9J7yjRqw-RU9MjrxJYaTJAc5Nw3WrFW4l7vp1pO07s_PnSdhsyUntiyPnUPln1gSOVLEEwf_/512fx384f"
+        }
+      },
+      {
+        "name": "M4A1-S | Fizzy POP",
+        "desc": "A tan and red retro techno-inspired pattern has been applied.",
+        "lore": "Wars are won with information",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOlhL-fkvT8PbTGl3lu-sB1teXI8oTht1i1uRQ5fWGhLYPDewc4ZFnTrwe3le280Mfuv8vBm3pk63N253zamBzm1E0abrRxxavJpb8tAt8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOlhL-fkvT8PbTGl3lu-sB1teXI8oTht1i1uRQ5fWGhLYPDewc4ZFnTrwe3le280Mfuv8vBm3pk63N253zamBzm1E0abrRxxavJpb8tAt8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOlhL-fkvT8PbTGl3lu-sB1teTE8YXghWu4qgE7Nnf1IdKTdAQ2NwzRqFa6krzv0cK66cvKm3ows3Ik7CnVnhXkhU1FauBnm7XAHpKMFkzl/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOlhL-fkvT8PbTGl3lu-sB1teTE8YXghWu4qgE7Nnf1IdKTdAQ2NwzRqFa6krzv0cK66cvKm3ows3Ik7CnVnhXkhU1FauBnm7XAHpKMFkzl/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOlhL-fkvT8PbTGl3lu-sB1teHE9Jrst1i1uRQ5fTjwJoGTcwVtYlDWqVC2lLu-0Zfvv8iYziQ3vHZz7HjYnxWxgBlJOOZxxavJlhY-m6c/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Amber Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZh7PXJdTh94dmilYyHnvTLP7LWnn9u5MRjjeyP9NimjFa2qhJla2GncIOWIwE8NA3Wr1G4xu7u1pHpvM6byCNhuCV35WGdwUJnqGmDOQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZh7PXJdTh94dmilYyHnvTLP7LWnn9u5MRjjeyP9NimjFa2qhJla2GncIOWIwE8NA3Wr1G4xu7u1pHpvM6byCNhuCV35WGdwUJnqGmDOQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZh7PXJdTh94dmilYyHnvTLPr7Vn35c18lwmO7Eu9_x0VXgqkZpYW37IoSddgc-ZVzY-AK6l7zojZPu7ZWfzSYyuSAhs3_D30vglvj1Jac/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZh7PXJdTh94dmilYyHnvTLPr7Vn35c18lwmO7Eu9_x0VXgqkZpYW37IoSddgc-ZVzY-AK6l7zojZPu7ZWfzSYyuSAhs3_D30vglvj1Jac/512fx384f"
+        }
+      },
+      {
+        "name": "R8 Revolver | Blaze",
+        "desc": "It has been painted by airbrushing transparent paints over a chrome base coat.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96tC3mYWYqPv9NLPFqWdQ-sJ0xLiYpYisi1bjqUs9Mj3wJdKUcgNoNFDT8le4xb_o08K1tcibn3FmuSU8pSGK5u2-Yfw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96tC3mYWYqPv9NLPFqWdQ-sJ0xLiYpYisi1bjqUs9Mj3wJdKUcgNoNFDT8le4xb_o08K1tcibn3FmuSU8pSGK5u2-Yfw/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Spring Twilly",
+        "desc": "A black and green hydrographic pattern of assorted designs has been applied.",
+        "lore": "Last chance; train's leaving the station",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3ZS9D5dK3hoODnuPxMK_ukXlU7ctOhuDG_ZjKhFWmrBZyamCmINOVIVNoYFCB-ge9xrjq05S678yfzXFi7nR37X-LnBzhgBwZb_sv26JMGaQNzg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3ZS9D5dK3hoODnuPxMK_ukXlU7ctOhuDG_ZjKhFWmrBZyamCmINOVIVNoYFCB-ge9xrjq05S678yfzXFi7nR37X-LnBzhgBwZb_sv26JMGaQNzg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3ZS9D5dK3hoODnuPxMK_ukXlU7ctOh-zF_Jn4t1i1uRQ5fTj6I4HEJFU-N1HTr1i9xbq71Ja1vJTMwCE37Ckl4yrflhPk10lFP-xxxavJG-TN1_0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3ZS9D5dK3hoODnuPxMK_ukXlU7ctOh-zF_Jn4t1i1uRQ5fTj6I4HEJFU-N1HTr1i9xbq71Ja1vJTMwCE37Ckl4yrflhPk10lFP-xxxavJG-TN1_0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3ZS9D5dK3hoODnuPxMK_ukXlU7ctOguzA45XKhFWmrBZyazjzcIWQJwI_YQzS8lPrlLq-jZG-tMnPnyFrsiIjtnbfzRC_hhseOPsv26KlYL0TPQ/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Full Stop",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3ZzxQ5d-3mY-0hfLwDLfYkWNF18lwmO7Eu9-l3AbirRE4N2vyJtOVewA_NVHR_QfokOzugcO9vZnKyHFhvHV35X3D30vgUVJOG50/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3ZzxQ5d-3mY-0hfLwDLfYkWNF18lwmO7Eu9-l3AbirRE4N2vyJtOVewA_NVHR_QfokOzugcO9vZnKyHFhvHV35X3D30vgUVJOG50/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3ZzxQ5d-3mY-0hfLwDLbUkmJE5fp9i_vG8MKtjAyyqUI-a2ymddeVcA8_NFqEq1Dqxuq9gJPq7ZidmnBiunIq5nfYgVXp1oD5a5QG/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3ZzxQ5d-3mY-0hfLwDLbUkmJE5fp9i_vG8MKtjAyyqUI-a2ymddeVcA8_NFqEq1Dqxuq9gJPq7ZidmnBiunIq5nfYgVXp1oD5a5QG/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3ZzxQ5d-3mY-0hfLwDLPUl31I18lwmO7Eu4mijg23qRBoYmz6coeRI1I9YFCFqwLsk73mjMK86pnNyXZk7yEhsXfD30vgrYpjAsA/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Sputnik",
+        "desc": "A space themed pattern consisting of stars and satellites has been applied.",
+        "lore": "Send and receive",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7ODYTi5S7d-zhoGIksj2P67UqWdY781lteXA54vwxlHt-BZlajyicNXEJwc9NFyGrFPtk7vm05-5tMnOy3IyuSQi5XiMmUGpwUYbUWGLOR8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7ODYTi5S7d-zhoGIksj2P67UqWdY781lteXA54vwxlHt-BZlajyicNXEJwc9NFyGrFPtk7vm05-5tMnOy3IyuSQi5XiMmUGpwUYbUWGLOR8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7ODYTi5S7d-zhoGIksj2P67UqWZU7Mxkh9bN9J7yjRq3qUU6MWynddfDd1c4MAzT_VXrk7260ZTuvprAy3Rg6SIrsHuOmhK-n1gSORQiXYZp/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7ODYTi5S7d-zhoGIksj2P67UqWZU7Mxkh9bN9J7yjRq3qUU6MWynddfDd1c4MAzT_VXrk7260ZTuvprAy3Rg6SIrsHuOmhK-n1gSORQiXYZp/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7ODYTi5S7d-zhoGIksj2P67UqWNU6dNoteXA54vwxlLj-kVvZW32IIGTJgM8MwnUqwLrlO--hpG_tJTMwHNn63En5CvdyhGpwUYb6kjuo4s/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

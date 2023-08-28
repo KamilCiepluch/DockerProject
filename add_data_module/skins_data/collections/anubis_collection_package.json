@@ -1,0 +1,304 @@
+{
+  "name": "Anubis Collection Package",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUlNhJw1EiamxJBVlw-HHfDIMuonkl4XbkaTyZOvXzzkAvZIk07jAp9Xx21Hn_RVuMDyhd9WXdVA4ZUaQpAaRvoU2Gw/256fx256f",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [
+      {
+        "name": "M4A4 | Eye of Horus",
+        "desc": "It has been custom painted with a white base, gold accents, and the Egyptian falcon god Horus.",
+        "lore": "Rise above the rest",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW0863q4yCkP_gDLfQhGxUppIk2bjE9tumjVHm-xc9MGDwcoaTegU6Y17R_FS3yLvrjZa06s_BzHJ9-n51Ol-KLl8/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW0863q4yCkP_gDLfQhGxUppIk2bjE9tumjVHm-xc9MGDwcoaTegU6Y17R_FS3yLvrjZa06s_BzHJ9-n51Ol-KLl8/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW0863q42Ok_7hPoTdl3lW7YsjjrmX9NWsigDj-hBtamqlJNCVcQ9raQzXq1S4yeq7gJC_6pzPm3c2pGB8slSE6e3D/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW0863q42Ok_7hPoTdl3lW7YsjjrmX9NWsigDj-hBtamqlJNCVcQ9raQzXq1S4yeq7gJC_6pzPm3c2pGB8slSE6e3D/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW0863q4iOluHtDLfQhGxUppwj2OrE8Iim2Abj8xdoYWqhd9fHdwQ-MFrZrFa6wursgZ6_6M6dwHV9-n51uBfXF7g/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "P250 | Apep's Curse",
+        "desc": "It has been custom painted using Egyptian patterns and materials as inspiration.",
+        "lore": "In opposition of Ra",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0m_7zO6_ummpD78A_2bCXpN_33lWwrkU6YWn3ddfEJ1I3aF2F_lbqwb_m08e4vpTPyiBnvz5iuyinNXYrIw/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0m_7zO6_ummpD78A_2bCXpN_33lWwrkU6YWn3ddfEJ1I3aF2F_lbqwb_m08e4vpTPyiBnvz5iuyinNXYrIw/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0mvLwOq7cqWdQ-sJ0xOjHpY302A23qUFvZzuico-ccAFvaF_V-wXsyerm1MPuuJnAzyNlu3E8pSGKtYzIsUw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0mvLwOq7cqWdQ-sJ0xOjHpY302A23qUFvZzuico-ccAFvaF_V-wXsyerm1MPuuJnAzyNlu3E8pSGKtYzIsUw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhnwMzYI2gS092mkZC0n_L1JaLummpD78A_2euXrd-niVLlqkM6Z2imJYKWIwI-YFjW-wLoxO6918Po7ZSfzCY16D5iuygT8jwuvw/512fx384f"
+        }
+      },
+      {
+        "name": "FAMAS | Waters of Nephthys",
+        "desc": "The blues on this custom painted FAMAS shift as lighting conditions change.",
+        "lore": "Water always wins",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JnI-HmMj7ML7QmFRd4cJ5ntbN9J7yjRqx8hY6Njz0IICXe1A7YQmBqFG_wO6-0JXq75uYyXUy63JztnnalkC3n1gSOSxQaQ1n/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JnI-HmMj7ML7QmFRd4cJ5ntbN9J7yjRqx8hY6Njz0IICXe1A7YQmBqFG_wO6-0JXq75uYyXUy63JztnnalkC3n1gSOSxQaQ1n/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JnI-HmMj7ML7QmFRc7cF4n-T--Y3nj1H6rxVtYD33IIOcclM2MArZqwTvwry9hsTvuMnBnSM1siEhti2Il0DihQYMMLIwWluLyA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JnI-HmMj7ML7QmFRc7cF4n-T--Y3nj1H6rxVtYD33IIOcclM2MArZqwTvwry9hsTvuMnBnSM1siEhti2Il0DihQYMMLIwWluLyA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JnI-HmMj7ML7QmFRZ7cRnk9bN9J7yjRrl-ktuaj31cYbEJlc_M1iF-1i3kO7tgcC4tcvNwHE3uiUq5nfdn0O1n1gSOU3hVDfb/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Glock-18 | Ramese's Reach",
+        "desc": "The Nile river has been custom painted on the slide and the grip depicts Ramesses I, the founding pharaoh of ancient Egypt's 19th Dynasty.",
+        "lore": "\"My people reach for their Gods, and I am here to connect them\"",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJhoGGjfLnDLfYkWNF18lwmO7Eu9SjjFXm_EA9a2GndoHGelI-Y1vRr1G9kOrq1sK1uJTLwCc173IjsynD30vgF9ZbVos/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJhoGGjfLnDLfYkWNF18lwmO7Eu9SjjFXm_EA9a2GndoHGelI-Y1vRr1G9kOrq1sK1uJTLwCc173IjsynD30vgF9ZbVos/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJhoGGjfLnDLbUkmJE5fp9i_vG8MLw3we2-UZlNWHxINeScAA7YQvZrlfvwOy8g57pvMycmiNh63Uht3rdgVXp1seSU2_c/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJhoGGjfLnDLbUkmJE5fp9i_vG8MLw3we2-UZlNWHxINeScAA7YQvZrlfvwOy8g57pvMycmiNh63Uht3rdgVXp1seSU2_c/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJhoGGjfLnDLPUl31I18lwmO7Eu92h21WwqEI_N2ygIoHEeg5rZl3QqAPolb-9gsLqvJqdyiFlvSQjsXjD30vg0V1DK-g/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | ScaraB Rush",
+        "desc": "It has been custom painted with scarabs and Egyptian inspired designs.",
+        "lore": "Resurrection requires death, and death requires rushing",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc18l4jeHVyoD0mlOx5UZoNWH2cYCVJAE_YFDV-lm9wuzsgpC07prAnHRqs3Rz4nnfyhW-1B5SLrs4mCfNmlg/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc18l4jeHVyoD0mlOx5UZoNWH2cYCVJAE_YFDV-lm9wuzsgpC07prAnHRqs3Rz4nnfyhW-1B5SLrs4mCfNmlg/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc18h0juDU-LP5iUazrl04NWGmcIfGcgY4aFvX-VG7k-i70Ja_uJnLmns1vSEj4XeMnRK2hB5PcKUx0qCNmvSu/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc18h0juDU-LP5iUazrl04NWGmcIfGcgY4aFvX-VG7k-i70Ja_uJnLmns1vSEj4XeMnRK2hB5PcKUx0qCNmvSu/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIQJR792klYK0mPHLJLLCkmRc1810i__YyoD0mlOx5UNkMWmmJoWdIVBoN1DYrATrlert0MDqupSfyyZks3Er533Unh2xhhtSLrs4HXunRZg/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Sobek's Bite",
+        "desc": "This custom paint job features gold and black Egyptian inspired designs.",
+        "lore": "From the water comes chaos",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqPv9NLPFqWdQ-sJ0xLySpdijiVHm_0tuZWDycYbGc1RvaFiEr1S-x-fn0567uZ_AzSNkuSc8pSGKUqkQ2MA/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqPv9NLPFqWdQ-sJ0xLySpdijiVHm_0tuZWDycYbGc1RvaFiEr1S-x-fn0567uZ_AzSNkuSc8pSGKUqkQ2MA/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqPrxN7LEm1Rd6dd2j6eRo4mnjQXg_UpvYWn3LYSVJFJraV3RrAXrw7vmh5K9uMnKwSNgvHIr-z-DyIaH9eCA/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqPrxN7LEm1Rd6dd2j6eRo4mnjQXg_UpvYWn3LYSVJFJraV3RrAXrw7vmh5K9uMnKwSNgvHIr-z-DyIaH9eCA/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhnwMzGfitD08-5loWAqP_xMq3IqWdQ-sJ0xLGU89_20Fbm_0tsa2mhIY_Ed1U7YFyE_gXslLzo15PvvsvIwCZjuHU8pSGK9fh7Bto/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MAG-7 | Copper Coated",
+        "desc": "It has been custom painted to look like it was held under a stream of liquid copper.",
+        "lore": "This was an accident, not a mistake...",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09u5m4yPqPv9NLPFqWdQ-sJ0xLuYpo-l3lXnrUVuMDz6cNDHcwE5N1_Z_le8l7y9gsS_vc-dzCcxs3Y8pSGKiOfJyRU/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09u5m4yPqPv9NLPFqWdQ-sJ0xLuYpo-l3lXnrUVuMDz6cNDHcwE5N1_Z_le8l7y9gsS_vc-dzCcxs3Y8pSGKiOfJyRU/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09u5m4yPqPrxN7LEm1Rd6dd2j6fDp92t2weyqEttNm6mcIaSclc5YF6C8lC-xu2-gMXt7Z7Lz3NmvXFw-z-DyLsDCkHz/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09u5m4yPqPrxN7LEm1Rd6dd2j6fDp92t2weyqEttNm6mcIaSclc5YF6C8lC-xu2-gMXt7Z7Lz3NmvXFw-z-DyLsDCkHz/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhnwMzFcDoV09u5m4yPqP_xMq3IqWdQ-sJ0xL-Z8I3z2gLn_kprMm3xJoHBdQI4NQyEq1nvyOfmg8S-tJmamiRqvCg8pSGKJWaWf1c/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Mummy's Rot",
+        "desc": "It has been custom painted to resemble a mummy. A cobra with green eyes has been painted beneath the rear sight.",
+        "lore": "Keep this under wraps",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09GjmY2SqPv9NLPFqWdQ-sJ0xOuWpY7w3VG3-0BtMmn2J47DJwVrZgrU-AW-kOzu0Zfv6c-cwXRq7yE8pSGKPIH688Y/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09GjmY2SqPv9NLPFqWdQ-sJ0xOuWpY7w3VG3-0BtMmn2J47DJwVrZgrU-AW-kOzu0Zfv6c-cwXRq7yE8pSGKPIH688Y/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09GjmY2SqPrxN7LEm1Rd6dd2j6eQpomn3wLlqUprNjuiddeUdw88Y1zX-1i9wbu50cS5v53My3RiuHQg-z-DyCJT1Qy0/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09GjmY2SqPrxN7LEm1Rd6dd2j6eQpomn3wLlqUprNjuiddeUdw88Y1zX-1i9wbu50cS5v53My3RiuHQg-z-DyCJT1Qy0/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b09GjmY2SqP_xMq3IqWdQ-sJ0xLuV89Tw0AKw-RY6a2r6JNOXJgA8NF_U-Vi5wbjshJW67prKwHZivCI8pSGKo2SgyfA/512fx384f"
+        }
+      },
+      {
+        "name": "AWP | Black Nile",
+        "desc": "The lines of this custom paint job resemble grooves on a topographical map.",
+        "lore": "Bleed between the lines",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJR-M65moW0m_7zO6_ummpD78A_jL_ArY2j0Qey8xE_Nz37LYKWdAM6aAyC_FG5yLy9gMC9vJ-awHRivD5iuyhssuDK2A/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJR-M65moW0m_7zO6_ummpD78A_jL_ArY2j0Qey8xE_Nz37LYKWdAM6aAyC_FG5yLy9gMC9vJ-awHRivD5iuyhssuDK2A/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJR-M65moW0mvLwOq7cqWdQ-sJ0xLqWpNykigWwqBE_NTugIIbDJAU8NQnR-1DowefpjZG47c_ImCMy7nQ8pSGKsoyOVdU/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJR-M65moW0mvLwOq7cqWdQ-sJ0xLqWpNykigWwqBE_NTugIIbDJAU8NQnR-1DowefpjZG47c_ImCMy7nQ8pSGKsoyOVdU/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJR-M65moW0n_L1JaLummpD78A_j-jE99-gjlW2_kRrYjvyI4DGcgA6ZF_Qrle9w-e8hpe-vJnKwXJr6z5iuyhgM0L87A/512fx384f"
+        }
+      },
+      {
+        "name": "AK-47 | Steel Delta",
+        "desc": "The lines of this custom paint job resemble grooves on a topographical map.",
+        "lore": "Bleed between the lines",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-iho-Fksj4OrzZglRd6dd2j6eZod-hjAK2rkQ6Mmn0ItXAdgdtaV6FqFTrkO7v0MDptZ7BynpjunMk-z-DyJz1E_65/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-iho-Fksj4OrzZglRd6dd2j6eZod-hjAK2rkQ6Mmn0ItXAdgdtaV6FqFTrkO7v0MDptZ7BynpjunMk-z-DyJz1E_65/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-iho-Fksj5Nr_Yg2Zu5MRjjeyP8I6l3QGyrRBsMWvxcNLAI1NqZFmG-1nsxOy-1J7o6Z_An3tj7HUn52GdwUImgcOvfw/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-iho-Fksj5Nr_Yg2Zu5MRjjeyP8I6l3QGyrRBsMWvxcNLAI1NqZFmG-1nsxOy-1J7o6Z_An3tj7HUn52GdwUImgcOvfw/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08-iho-Fksj8NrrHj1Rd6dd2j6eS89302gS3-Edqam76I4bAdQc6aQvYqAC_xOnthZTq78mfzSdhvyJw-z-DyE5DgYvt/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "MAC-10 | Echoing Sands",
+        "desc": "It has been custom painted using desert camouflage and environments as inspiration. A scarab has been painted under the wire form butt.",
+        "lore": "\"WE'VE BEEN SET UP! THEY'RE EVERYWHERE!\"",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJh4OKhfb2DLfYkWNF18lwmO7Eu9_xi1Ht-xc6Zz2iJ4LEcQZtYVzT_QC7wLvmhcDvu5qdyXox6HUgs3zD30vgMYpctnQ/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJh4OKhfb2DLfYkWNF18lwmO7Eu9_xi1Ht-xc6Zz2iJ4LEcQZtYVzT_QC7wLvmhcDvu5qdyXox6HUgs3zD30vgMYpctnQ/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJh4OKhfb2DLbUkmJE5fp9i_vG8MKjiQGxqBJpNWCgcYWRJFc5YA7RrFnswO3t15K6vZqYwSBkuycqsS7ZgVXp1szbYaRx/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJh4OKhfb2DLbUkmJE5fp9i_vG8MKjiQGxqBJpNWCgcYWRJFc5YA7RrFnswO3t15K6vZqYwSBkuycqsS7ZgVXp1szbYaRx/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJh4OKhfb2DLPUl31I18lwmO7Eu9uh3FWx-EY5YD-ndoXGIw5oM1nX_lLskOu7g57o75ucyiRi6CJ3tn_D30vgapQFNNE/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Azure Glyph",
+        "desc": "It has been custom painted with blue water, Egyptian hieroglyphs, and finished with wood running the length of the weapon.",
+        "lore": "Flood warning",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlY6elf7nDLfYkWNF18lwmO7Eu9rw3gHgrRZqZ2z1ctSVcw9qZV3Q_Qe5xO67hJe_6pvOmiNj6ygl7CnD30vg6wZnFoM/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlY6elf7nDLfYkWNF18lwmO7Eu9rw3gHgrRZqZ2z1ctSVcw9qZV3Q_Qe5xO67hJe_6pvOmiNj6ygl7CnD30vg6wZnFoM/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlY6elf7nDLbUkmJE5fp9i_vG8MLxiVXiqEY9NTuld4WSdwU_aA2Cr1m_yLu818Loup2YwXYyuCYq4nvYgVXp1qXizOPe/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlY6elf7nDLbUkmJE5fp9i_vG8MLxiVXiqEY9NTuld4WSdwU_aA2Cr1m_yLu818Loup2YwXYyuCYq4nvYgVXp1qXizOPe/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f1OD3Yi5FvISJlY6elf7nDLPUl31I18lwmO7Eu4rz2lC1qBJvY2-nddDAJwI6ZVvQr1Xqx-6-jMXuvZ_KyyRjsyl343_D30vg3OuEkps/512fx384f"
+        }
+      },
+      {
+        "name": "USP-S | Desert Tactical",
+        "desc": "It has been custom painted with an olive-colored tactical camouflage.",
+        "lore": "Base models don't have to be boring",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ulq5WYh-TLJ7rSgmJS6clOiejM-rP5gVO8vywwMiukcZjDJAM6ZF7Q81W_kOa5gJa1vZScmHQx7ygj53nZlhXm105JarQ6jfSeVxzAUL4mq0hv/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ulq5WYh-TLJ7rSgmJS6clOiejM-rP5gVO8vywwMiukcZjDJAM6ZF7Q81W_kOa5gJa1vZScmHQx7ygj53nZlhXm105JarQ6jfSeVxzAUL4mq0hv/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ulq5WYh-TLJ7rSgmJS6clOiejM-rP4jVC9vh4DPzixc9OLIVdsYAqD-1C5x7281JHousnNz3Qy6SR25nrdmxSzgBsfPeJngKPLSkLeWfJ4NeBDFQ/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ulq5WYh-TLJ7rSgmJS6clOiejM-rP4jVC9vh4DPzixc9OLIVdsYAqD-1C5x7281JHousnNz3Qy6SR25nrdmxSzgBsfPeJngKPLSkLeWfJ4NeBDFQ/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09ulq5WYh-TLJ7rSgmJS6clOiejM-rP9jVWisiwwMiukcZicIw5qM13Y-1nrxb_uh5a0uMjKmiNk7yJx7HzcmUO01UlLaeJphPbIVxzAUCDUAdcD/512fx384f"
+        }
+      },
+      {
+        "name": "M4A1-S | Mud-Spec",
+        "desc": "A custom black and brown camouflage has been applied.",
+        "lore": "Backup has arrived",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITcn2dC-MByteXI8oTht1i1uRQ5fTihcoXBIFNsaFHU81W6k-3ujZTv75vJmndj7iNz4n3UyRGw0hlFaexxxavJT6VNAY0/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITcn2dC-MByteXI8oTht1i1uRQ5fTihcoXBIFNsaFHU81W6k-3ujZTv75vJmndj7iNz4n3UyRGw0hlFaexxxavJT6VNAY0/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITcn2dC-MByteTE8YXghWu4qgE7Nnf2ItXDcVdoNA3R-QK3xujp0cW56pScmyEx6Ckh5CramR3mgUlEa-I9m7XAHjea6GNo/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITcn2dC-MByteTE8YXghWu4qgE7Nnf2ItXDcVdoNA3R-QK3xujp0cW56pScmyEx6Ckh5CramR3mgUlEa-I9m7XAHjea6GNo/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITcn2dC-MByteHE9Jrst1i1uRQ5fWCidtOXdAE-Ml2C8gW4w7jt08Xo7ZSbnXo26HMhtnvcmkG0ghBKbeVxxavJKtF7ZVE/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "XM1014 | Hieroglyph",
+        "desc": "It has been custom painted with Egyptian hieroglyphs and ornaments.",
+        "lore": "The moral of the story",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-bn_bmMrTZqWdY781lteXA54vwxlCw_kI-NTv1IdCSdgZqNVzR_lTok-vrjcPqtc-cySNgvyN07X3amROpwUYbnEPV9zs/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-bn_bmMrTZqWdY781lteXA54vwxlCw_kI-NTv1IdCSdgZqNVzR_lTok-vrjcPqtc-cySNgvyN07X3amROpwUYbnEPV9zs/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-bn_bmMrTZqWZU7Mxkh9bN9J7yjRq2_UBuNmrzJtSdJwRrYV-E-wC2wevn1Me86Z_Pm3JiviRw4nnemhPkn1gSOfCzaCDq/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-bn_bmMrTZqWZU7Mxkh9bN9J7yjRq2_UBuNmrzJtSdJwRrYV-E-wC2wevn1Me86Z_Pm3JiviRw4nnemhPkn1gSOfCzaCDq/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-bn_bmMrTZqWNU6dNoteXA54vwxlHjqRBuMT-lcIGVcAM2NAnY8gLsxbu9hMXtvZvJyXBmuXMk4yuLmkapwUYb9Q6zQRM/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Snake Pit",
+        "desc": "A custom pattern of snakes and amphibians has been applied.",
+        "lore": "Acting on ill intentions",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957Pfdfzh9-M63hL-HnvD8J4Tdl3lW7Ysn2-yVrImm2lfh-xBoMmD7INDAIQ43NAvQ-wXrl7rojZ_t6ZnLynVlpGB8sj32rPrU/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957Pfdfzh9-M63hL-HnvD8J4Tdl3lW7Ysn2-yVrImm2lfh-xBoMmD7INDAIQ43NAvQ-wXrl7rojZ_t6ZnLynVlpGB8sj32rPrU/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957Pfdfzh9-M63hL-GkvP9JrbummpD78A_j-3E8Iqn3wziqUM6Mmv7doDAcQc5YFzSqVHrxOrpjJ67u5-aynY3sz5iuyjzBIo00g/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957Pfdfzh9-M63hL-GkvP9JrbummpD78A_j-3E8Iqn3wziqUM6Mmv7doDAcQc5YFzSqVHrxOrpjJ67u5-aynY3sz5iuyjzBIo00g/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957Pfdfzh9-M63hL-DkvbiKoTdl3lW7Yt1i-yUrdikiQ2xqBVtamilJI6Xdw83YVmDqVm-krvqhpG8up7PnyFhpGB8siX8znA9/512fx384f"
+        }
+      },
+      {
+        "name": "M249 | Submerged",
+        "desc": "It has been custom painted using teal-colored desert camouflage and environments as inspiration.",
+        "lore": "\"WE'VE BEEN SET UP! THEY'RE EVERYWHERE!\"",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb08-1lZKKlcj4OrzZglRd6dd2j6eX8Y-kjFfm_hI6MGiiJ9eXcFBoN1jW_gK2xL3n05Tov8nBwSM263Ml-z-DyLEMhPw5/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb08-1lZKKlcj4OrzZglRd6dd2j6eX8Y-kjFfm_hI6MGiiJ9eXcFBoN1jW_gK2xL3n05Tov8nBwSM263Ml-z-DyLEMhPw5/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb08-1lZKKlcj5Nr_Yg2Zu5MRjjeyPpdWl3VHlqUZsNzumLIecdA5qZFuC8le4l7i61sDq6MnBznphvCYk5WGdwUL-bYOhSg/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb08-1lZKKlcj5Nr_Yg2Zu5MRjjeyPpdWl3VHlqUZsNzumLIecdA5qZFuC8le4l7i61sDq6MnBznphvCYk5WGdwUL-bYOhSg/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhjxszFI2kb08-1lZKKlcj8NrrHj1Rd6dd2j6eWo9_z0QzmqEpkZGz7JY-cJwFrMwyErwO3kua-hZHq78zPm3Jr6yMg-z-DyJkZv_ZY/512fx384f"
+        }
+      },
+      {
+        "name": "R8 Revolver | Inlay",
+        "desc": "It has been custom painted to resemble acanthus engravings and a marble grip.",
+        "lore": "Opulence in the palm of your hand",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1i9rBsoDDWiZtHAbAVqZ13S_VK8l-rvjZTqvsyfyyMw6XUm7SzfnBG01RoaOuJs16HNGAmAR_selfFLL0Q/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1i9rBsoDDWiZtHAbAVqZ13S_VK8l-rvjZTqvsyfyyMw6XUm7SzfnBG01RoaOuJs16HNGAmAR_selfFLL0Q/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1mxrxopPgavdcTCJxhrM16ErFi5wLvs0JW96pnBmnRisiVz4HfdmBzh0x1MZrY8hvCcHA-XGeUXS-eLwTZc/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1mxrxopPgavdcTCJxhrM16ErFi5wLvs0JW96pnBmnRisiVz4HfdmBzh0x1MZrY8hvCcHA-XGeUXS-eLwTZc/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3di59_tmgm4ydkuXLMrjQmH9Z_dZOiPvO-5bwt1yxqgUlDDWiZtHAbAY5N1rR8lm6lOy-gcS57ZuanXsxs3JzsS3bnBa2iBFIardsgvaeHQiAR_sembm-f4c/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Sunbaked",
+        "desc": "The lines of this custom paint job resemble grooves on a topographical map.",
+        "lore": "Bleed between the lines",
+        "date_added": "25 April 2023",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "Factory New": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFABz7P7YJgJR-M65moW0m_7zO6_ummpD78A_2bHCo9mk2gC1_BY4NWr2cteXcAQ9MlvXr1i5kuu-1p68v87LzXBjvT5iuyh4fJCI_Q/512fx384f",
+          "Minimal Wear": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFABz7P7YJgJR-M65moW0m_7zO6_ummpD78A_2bHCo9mk2gC1_BY4NWr2cteXcAQ9MlvXr1i5kuu-1p68v87LzXBjvT5iuyh4fJCI_Q/512fx384f",
+          "Field-Tested": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFABz7P7YJgJR-M65moW0mvLwOq7cqWdQ-sJ0xLvEpY733wSx_xVkNWr1LIaVcw5vYljQqQTswLrp0cXpv8vNmCBi6CY8pSGKOFmJwhY/512fx384f",
+          "Well-Worn": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFABz7P7YJgJR-M65moW0mvLwOq7cqWdQ-sJ0xLvEpY733wSx_xVkNWr1LIaVcw5vYljQqQTswLrp0cXpv8vNmCBi6CY8pSGKOFmJwhY/512fx384f",
+          "Battle-Scarred": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFABz7P7YJgJR-M65moW0n_L1JaLummpD78A_3LmQ89ul3AyxrUBkZ2_wJ4OQJgI3MgyC-gPsl-3njZHo7ZmbmnIw7D5iuygfOlmOlw/512fx384f"
+        }
+      }
+    ]
+  }
+}

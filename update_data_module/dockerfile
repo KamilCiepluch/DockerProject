@@ -1,0 +1,22 @@
+# Użyj gotowego obrazu Pythona
+FROM python:3.8
+
+# Ustaw katalog roboczy w kontenerze
+WORKDIR /app
+
+# Skopiuj plik requirements.txt do kontenera
+COPY requirements.txt requirements.txt
+
+
+# Zainstaluj zależności
+RUN pip install -r requirements.txt
+
+# Skopiuj resztę projektu do kontenera
+COPY . .
+
+# Domyślny port, na którym działa aplikacja
+EXPOSE 80
+
+# Komenda do uruchomienia aplikacji
+CMD ["python", "/app/project/UpdateSkins.py"]
+
