@@ -65,8 +65,12 @@ def compere_collection_prices():
     return skinAnalysys.compere_collections(collection1_name,collection2_name, args)
 
 
-
-
+@app.route('/skins', methods=['POST'])
+def get_skins_names():
+    data = request.json
+    collection_name = data.get('collection', '')
+    skins = dbHelper.get_skins_names_from_collection(collection_name)
+    return json.dumps(skins)
 
 
 

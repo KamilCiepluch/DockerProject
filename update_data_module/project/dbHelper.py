@@ -268,6 +268,24 @@ def add_quality_to_skin(skin, quality):
     mydb.close()
 
 
+def get_skins_names_from_collection(collection_name):
+    mydb = connect_to_database()
+    mycursor = mydb.cursor()
+    try:
+        mycursor.callproc("get_skins_names_from_collection", (collection_name,))
+        result = mycursor.stored_results()
+        skins = []
+        for res in result:
+            for row in res.fetchall():
+                skins.append(row)
+        mycursor.close()
+        mydb.close()
+        return skins
+    except requests.exceptions.JSONDecodeError:
+        return None
+
+
+
 # Press the green button in the gutter to run the script.
 # if __name__ == '__main__':
     # s ="https://csgobackpack.net/api/GetItemPrice/?currency=USD&id=AK-47%20|%20Asiimov%20(Minimal%20Wear)full=1"

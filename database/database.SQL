@@ -198,7 +198,13 @@ BEGIN
     RETURN RESULT;
 END;
 
-
+drop procedure if exists get_skins_names_from_collection;
+create procedure get_skins_names_from_collection(collection_name varchar(50))
+begin
+        select DISTINCT NAME, QUALITY FROM SKINS WHERE COLLECTION = collection_name;
+end;
+	
+	
 select * from SKINS;
 select check_if_souvenir_exists('AWP','Covert Skins','The Control Collection');
 select check_if_stattrack_exists('AWP','Covert Skins','The Control Collection');
