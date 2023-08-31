@@ -86,7 +86,7 @@ def get_skin_weekly_price(selected_collection, option, args):
         print("Podano niepoprawne dane")
 
 
-def print_skin_weekly_price(selected_collection, response_data):
+def print_skin_weekly_price(selected_collection, option, response_data):
     weekly_prices = response_data['weekly_prices']
     weeks = response_data['weeks_numbers']
 
@@ -234,8 +234,8 @@ def avaliable_options():
     print("collections - pokaz dostepne kolekcje")
     print("skins       - wyswietla zawartosc kolekcji")
     print("calculate   - analizuj dane z kolekcji")
-    print("Intervals   - pokazuje przedzialy w ktorych nastepowaly zmiany cen")
-    print("Compare     - porownuje dwie kolekcje w jednakowym okresie czasu")
+    print("intervals   - pokazuje przedzialy w ktorych nastepowaly zmiany cen")
+    print("compare     - porownuje dwie kolekcje w jednakowym okresie czasu")
     print("exit        - zamkniecie aplikacji")
 
 
@@ -275,11 +275,7 @@ if __name__ == "__main__":
                     get_increase_intervals(collection, opt, args)
                     get_decrease_intervals(collection, opt, args)
 
-
-                print_skin_weekly_price(collection, data)
-
-
-
+                print_skin_weekly_price(collection, opt, data)
 
             if 'intervals' in option:
                 collection = choose_collection(available_collections)
